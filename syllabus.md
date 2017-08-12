@@ -71,9 +71,6 @@ There will be discrete team and individual exercises and projects that require y
 
 *   Seeing, hearing, touching, tasting, smelling, feeling
 *   Collecting, obsessing, hoarding
-
-**Phase 1: Discovery / Inspiration: Steal Like An Artist**
-
 *   Reappropriating, remixing
 
 **Phase 2: Research / Ideation / Brainstorming**
@@ -192,14 +189,6 @@ If you are student with a disability who is requesting accommodations, please co
 *   Digital Storage (Thumb Drives or External Hard Drive, Laptop, etc)
 
 
-### REQUIRED BOOKS
-
-*   [AIGA’s Ethnography Primer]([http://www.aiga.org/ethnography-primer/]) (available free online)
-*   [IDEO’s Human-centered Design Toolkit](http://www.designkit.org/resources/1) (available free online)
-*   _[Writing for Visual Thinkers: A Guide for Artists and Designers](https://www.amazon.com/Writing-Visual-Thinkers-Artists-Designers/dp/0321767454)_ by Andrea Marks.
-
-
-
 ### REQUIRED READINGS
 
 _The following list of required readings may be incomplete and is subject to change. Please see the course website for updates._
@@ -225,7 +214,7 @@ See Appendix
 
 ### PROJECTS & ASSIGNMENTS
 
-All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname_i&d_fa16_assignmentname (i.e. dduff_i&d_fa16_assignmentname.pdf)
+All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname_i&d_fa17_assignmentname (i.e. dduff_i&d_fa17_assignmentname.pdf)
 
 
 #### Projects
@@ -236,7 +225,7 @@ All due dates can be found in the calendar. This is just an overview and descrip
 * [Constant Input Choices](constant_input_choices.md)
 * [Input Map](input_map.md)
 * [Process Website](process_website.md)
-* [Narrative Timeline of Influences](narrative_timeline.md)
+* [Iteration Timeline](iteration_timeline.md)
 * [Notebook or Sketchbook](notebook_or_sketchbook.md)
 * [Self Assessments](self_assessments.md) 
 * [Museum or gallery visit, talk, or meetup](visit_talk_meetup.md)
