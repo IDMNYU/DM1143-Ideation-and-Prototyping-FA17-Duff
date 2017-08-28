@@ -9,16 +9,16 @@ _The class website is the official source for all dates and assignments; the syl
 **All dates and assignments are subject to change at the discretion of the professor! Gitbook and slack are the official sources for all dates and assignments.**
 
 *Gitbook & Slack are living, dynamic sources. If there are any changes to the schedule in the syllabus, I will note these changes on gitbook and/or slack AND in person during class.*
-<table>
-    <tr>
-        <th width="4%">wk</th>
-        <th width="48%">Tuesdays (Due on Date Listed)</th>
-        <th width="48%">Thursdays (Due on Date Listed)</th>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td><a href="week_1_detail.md">Sep 5<br>
-        <ul>
+<table border="1">
+<tr>
+<th width="4%">wk</th>
+<th width="48%">Tuesdays (Due on Date Listed)</th>
+<th width="48%">Thursdays (Due on Date Listed)</th>
+</tr>
+<tr>
+<td>1</td>
+<td><a href="week_1_detail.md">Sep 5<br>
+<ul>
         <li>Course and Student Introductions</li>
         <li>Overview of Course</li></a></td>
         <td><a href="week_1_detail.md">Sep 7<br>Phase 1: Discovery / Inspiration / Process: <strong>Personal Inventories</strong</li></ul></a></td>
