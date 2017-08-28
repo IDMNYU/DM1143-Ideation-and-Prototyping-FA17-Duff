@@ -42,7 +42,9 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <tr>
 <td>4</td>
 <td valign="top">Sep 26<br><a href="week_4_detail.md">Phase 1: Discovery / Inspiration / <strong>Process</strong></strong></a></td>
-<td>Sep 28<br><a href="week_4_detail.md">Creative Process Annotated Bibliography and Video Documentary <strong>
+<td>Sep 28<br>Creative Process Annotated Bibliography and Video Documentary:
+<a href="week_4_detail.md"> 
+<strong>
 <ul>
 <li>Create Individual Annotated Bibliography Draft</li>
 <li>Create Individual Mood Board Draft</li>
@@ -51,13 +53,16 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
 <td>5</td>
-<td>Oct 03<br><a href="week_5_detail.md">Creative Process Annotated Bibliography and Video Documentary <strong>
+<td>Oct 03<br>Creative Process Annotated Bibliography and Video Documentary:
+<a href="week_5_detail.md"> 
+<strong>
 <ul>
 <li>Create Team Annotated Bibliography Draft</li>
 <li>Create Team Mood Board Draft</li>
 <li>Create Team Image or Text Storyboard Draft</li>      
 </ul></strong></a></td>
-<td>Oct 05<br><a href="week_5_detail.md">Creative Process Annotated Bibliography and Video Documentary 
+<td>Oct 05<br>Creative Process Annotated Bibliography and Video Documentary:
+<a href="week_5_detail.md">
 <strong>
 <ul>
 <li>(if applicable) Iterate Team Annotated Bibliography Draft</li>
@@ -69,13 +74,16 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
 <td>6</td>    
-<td>Oct 10<br><a href="week_6_detail.md">Creative Process Annotated Bibliography and Video Documentary: <strong>
+<td>Oct 10<br>Creative Process Annotated Bibliography and Video Documentary:
+<a href="week_6_detail.md"> 
+<strong>
 <ul>
 <li>(if applicable) Create or Iterate Iterate Animatic draft</li>
 <li>(if applicable) Create Hybrid Animatic / Video Draft</li>
 </ul>
 </strong></a></td>
-<td>Oct 12<br><a href="week_6_detail.md">Creative Process Annotated Bibliography and Video Documentary: 
+<td>Oct 12<br>Creative Process Annotated Bibliography and Video Documentary:
+<a href="week_6_detail.md"> 
 <strong>
 <ul>
 <li>(if applicable) Create or Iterate Hybrid Animatic / Video Draft or</li>
@@ -85,13 +93,15 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
 <td>7</td>     
-<td>Oct 17<br><a href="week_7_detail.md">Creative Process Annotated Bibliography and Video Documentary: 
+<td>Oct 17<br>Creative Process Annotated Bibliography and Video Documentary: 
+<a href="week_7_detail.md">
 <strong>
 <ul>
 <li>Iterate Hybrid Animatic / Video Draft</li>
 </ul>
 </strong></a></td>
-<td>Oct 19<br><a href="week_7_detail.md">Creative Process Annotated Bibliography and Video Documentary
+<td>Oct 19<br>Creative Process Annotated Bibliography and Video Documentary:
+<a href="week_7_detail.md">
 <strong>
 <ul>
 <li>Iterate Hybrid Animatic / Video Draft</li>
@@ -100,13 +110,15 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
 <td>8</td>     
-<td>Oct 24<br><a href="week_8_detail.md">Creative Process Annotated Bibliography and Video Documentary: 
+<td>Oct 24<br>Creative Process Annotated Bibliography and Video Documentary: 
+<a href="week_8_detail.md">
 <strong>
 <ul>
 <li>Create Video Draft</li>
 </ul>
 </strong></a></td>
-<td valign="top"><a href="week_8_detail.md">Oct 26<br>Creative Process Annotated Bibliography and Video Documentary: 
+<td valign="top">Creative Process Annotated Bibliography and Video Documentary: 
+<a href="week_8_detail.md">Oct 26<br>
 <strong>
 <ul>
 <li>Iterate Video Draft</li>
@@ -115,7 +127,8 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr> 
 <tr>
 <td>9</td>      
-<td valign="top">Oct 31<br><a href="week_9_detail.md">Creative Process Annotated Bibliography and Video Documentary: 
+<td valign="top">Oct 31<br>
+<a href="week_9_detail.md">
 <strong>
 <ul>
 <li>Creative Process Video Documentary DUE</li>
@@ -218,7 +231,7 @@ Midterm Self-Assessment DUE
 <tr>
 <td>15</td>     
 <td>Dec 12<br><i><strong>NO CLASS: Legislative Day</strong> - Classes will meet according to a Monday schedule</i></td>  
-<td>Dec 14<br><strong><a href="future.md">Future Dystopia / Utopia Project DUE</a></strong>strong></td>
+<td>Dec 14<br><strong><a href="future.md">Future Dystopia / Utopia Project DUE</a></strong></td>
 </tr>
 <tr>
 <td></td>
