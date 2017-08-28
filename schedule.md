@@ -9,6 +9,9 @@ _The class website is the official source for all dates and assignments; the syl
 **All dates and assignments are subject to change at the discretion of the professor! Gitbook and slack are the official sources for all dates and assignments.**
 
 *Gitbook & Slack are living, dynamic sources. If there are any changes to the schedule in the syllabus, I will note these changes on gitbook and/or slack AND in person during class.*
+
+OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/training-calendar/" target="_blank">Tandon's MakerSpace.</a></strong> 
+
 <table border="1">
 <tr>
 <th width="4%">wk</th>
@@ -17,11 +20,11 @@ _The class website is the official source for all dates and assignments; the syl
 </tr>
 <tr>
 <td>1</td>
-<td>Sep 5<br><a href="week_1_detail.md">
+<td valign="top">Sep 5<br><a href="week_1_detail.md">
 <ul>
 <li>Course and Student Introductions</li>
 <li>Overview of Course</li></a></td>
-<td>Sep 7<br><a href="week_1_detail.md">Phase 1: Discovery / Inspiration / Process: <strong>Personal Inventories</strong</li></ul></a></td>
+<td valign="top">Sep 7<br><a href="week_1_detail.md">Phase 1: Discovery / Inspiration / Process: <strong>Personal Inventories</strong</li></ul></a></td>
 </tr>
 <tr>
 <td>2</td> 
@@ -29,7 +32,7 @@ _The class website is the official source for all dates and assignments; the syl
 <td valign="top">Sep 14<br><a href="week_2_detail.md">Phase 2: Research / Ideation / Brainstorming: <strong>Media Studies</strong></a></td>
 </tr>
 <tr>
-<td><td>Sep 19<br><i>Last day to drop Fall 2016 classes and not receive a grade of "W"</i></td><td></td>
+<td><td>Mon Sep 18<br><i>Last day to drop Fall 2017 classes and not receive a grade of "W"</i></td><td></td>
 </tr>
 <tr>
 <td>3</td>    
@@ -114,7 +117,7 @@ _The class website is the official source for all dates and assignments; the syl
 </tr>
 <tr>
 <td></td><td>Nov 1 (starting @4:30pm) thru Nov 4<br>Midterm One on Ones<br><strong>Midterm Self-Assessment DUE</strong> <ul><li>Schedule your midterm one on one 30min appointment with me here on <strong>Nov 1 (starting @4:30pm) thru Nov 4</strong> only, not before or afterwards: <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a></li></ul></td>
-<td>Nov 7<br><strong><i>Last Day to Withdraw</i></strong></td>
+<td>Mon Nov 6<br><strong><i>Last Day to Withdraw</i></strong></td>
 </tr>
 <tr>
 <td>10</td>     
@@ -135,7 +138,7 @@ Future Dystopia / Utopia Project:
 <a href="week_11_detail.md">
 <ul>
 <li></li>
-<li><strong>Get Training at Tandon's MakerSpace from 10:30 - 12pm.</strong> I have confirmed a special safety training session as well as laser cutter and 3D printer training just for this class.</li></ul></a></td>
+<li></li></ul></a></td>
 <td>Nov 16<br><a href="week_11_detail.md">
 <ul>
 <li></li>
