@@ -129,12 +129,19 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </strong></a></td>
 </tr>
 <tr>
-<td></td><td>Nov 2 (starting @4:30pm), Nov 3 or Nov 6 (before 4:30pm)<br>Midterm One on Ones<br><br><strong>Midterm Self-Assessment DUE</strong> <ul><li>Schedule your midterm one on one 20min appointment with me here on the above dates only, not before or afterwards: <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a></li></ul></td>
+<td></td><td>Nov 2 (starting @4:30pm), Nov 3 or Nov 6 (before 4:30pm)<br>
+<strong>Midterm One on Ones</strong><br><br>
+Midterm Self-Assessment DUE 
+<ul>
+<li>Schedule your midterm one on one 20min appointment with me here on the above dates only, not before or afterwards: <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a>
+</li>
+</ul></td>
 <td>Mon Nov 6<br><strong><i>Last Day to Withdraw</i></strong></td>
 </tr>
 <tr>
 <td>10</td>     
-<td>Nov 7<br><a href="week_10_detail.md">Future Dystopia / Utopia Project: 
+<td>Nov 7<br>Future Dystopia / Utopia Project: 
+<a href="week_10_detail.md">
 <strong>
 <ul>
 <li>Ideate Framing Story</li>
@@ -148,13 +155,14 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
 <td>11</td>   
-<td>Nov 14<br>
+<td>Nov 14<br>Future Dystopia / Utopia Project: 
 <a href="week_11_detail.md">
 <ul>
 <li>Brainstorm, Sketch, and Map Object(s)</li>
 <li>Brainstorm, Sketch, and Map Delivery Medium</li>
 <li>Secondary Research</li></ul></a></td>
-<td>Nov 16<br><a href="week_11_detail.md">
+<td>Nov 16<br>Future Dystopia / Utopia Project: 
+<a href="week_11_detail.md">
 <ul>
 <li>Iterate Sketches and Maps of Object(s)</li>
 <li>Iterate Sketches and Maps of Delivery Medium</li>
@@ -163,7 +171,8 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
 <td>12</td>   
-<td>Nov 22<br><a href="week_12_detail.md">Future Dystopia / Utopia Project: 
+<td>Nov 22<br>Future Dystopia / Utopia Project: 
+<a href="week_12_detail.md">
 <strong>
 <ul>
 <li>Storyboard Draft of Delivery Medium</li>
@@ -173,12 +182,14 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
 <td>13</td>  
-<td>Nov 28<br><a href="week_13_detail.md">Future Dystopia / Utopia Project: 
+<td>Nov 28<br>Future Dystopia / Utopia Project: 
+<a href="week_13_detail.md">
 <strong><ul>
 <li>Iterate Storyboard Draft of Delivery Medium</li>
 <li>Iterate Lo-fi Object Prototype Draft</li>
 </ul></strong></a></td>
-<td>Nov 30<br><a href="week_13_detail.md">Future Dystopia / Utopia Project: 
+<td>Nov 30<br>Future Dystopia / Utopia Project: 
+<a href="week_13_detail.md">
 <strong>
 <ul>
 <li>Lo-fi Prototype Delivery Medium</li>
@@ -187,14 +198,15 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
 <td>14</td>    
-<td>Dec 5<br>
+<td>Dec 5<br>Future Dystopia / Utopia Project: 
 <a href="week_14_detail.md">
 <strong>
 <ul>
 <li>Iterate Lo-fi Prototype Delivery Medium</li>
 <li>Iterate Hi-fi Prototype Draft</li>
 </ul></strong></a></td>
-<td>Dec 7<br><a href="week_14_detail.md">Future Dystopia / Utopia Project: 
+<td>Dec 7<br>Future Dystopia / Utopia Project: 
+<a href="week_14_detail.md">
 <strong>
 <ul>      
 <li>Iterate Lo-fi Prototype Delivery Medium</li>
@@ -203,12 +215,11 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
 <td>15</td>     
-<td>Dec 12<br><i>NO CLASS: Legislative Day - Classes will meet according to a Monday schedule</i></td>  
+<td>Dec 12<br><i><strong>NO CLASS: Legislative Day</strong> - Classes will meet according to a Monday schedule</i></td>  
 <td>Dec 14<br><strong><a href="future.md">Future Dystopia / Utopia Project DUE</a></strong>strong></td>
 </tr>
 <tr>
 <td></td>
-<td>Dec 19<br><strong></strong> </td>
 <td>Fri 12/15 or Mon 12/18 thru Thu 12/21<br>Final One on Ones<br><br><strong></strong> <ul><li>Schedule your final one on one 20min appointment with me here on the above dates only, not before or afterwards: <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a></li></ul>
 <ul>
 <li>Final Self-Assessment DUE</li>
