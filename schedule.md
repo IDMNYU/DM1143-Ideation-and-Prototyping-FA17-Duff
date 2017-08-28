@@ -129,8 +129,10 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </strong></a></td>
 </tr>
 <tr>
-<td></td><td>Nov 2 (starting @4:30pm), Nov 3 or Nov 6 (before 4:30pm)<br>
-<strong>Midterm One on Ones</strong><br><br>
+<td></td>
+<td><strong>Midterm One on Ones</strong><br>
+Nov 2 (starting @4:30pm), Nov 3 or Nov 6 (before 4:30pm)
+<br><br>
 Midterm Self-Assessment DUE 
 <ul>
 <li>Schedule your midterm one on one 20min appointment with me here on the above dates only, not before or afterwards: <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a>
@@ -220,7 +222,8 @@ Midterm Self-Assessment DUE
 </tr>
 <tr>
 <td></td>
-<td>Fri 12/15 or Mon 12/18 thru Thu 12/21<br>Final One on Ones<br><br><strong></strong> <ul><li>Schedule your final one on one 20min appointment with me here on the above dates only, not before or afterwards: <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a></li></ul>
+<td><strong>Final One on Ones</strong><br>
+Fri 12/15 or Mon 12/18 thru Thu 12/21<br><br><strong></strong> <ul><li>Schedule your final one on one 20min appointment with me here on the above dates only, not before or afterwards: <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a></li></ul>
 <ul>
 <li>Final Self-Assessment DUE</li>
 <li><a href="https://deangela.gitbooks.io/dm1143-ideation-and-prototyping-fall-2016/content/end-of-semester-deliverables.html">End of Semester Deliverables Due</a></li>
