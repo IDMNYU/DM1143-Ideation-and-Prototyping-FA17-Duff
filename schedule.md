@@ -44,23 +44,26 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <td valign="top">Sep 26<br><a href="week_4_detail.md">Phase 1: Discovery / Inspiration / <strong>Process</strong></strong></a></td>
 <td>Sep 28<br><a href="week_4_detail.md">Creative Process Annotated Bibliography and Video Documentary <strong>
 <ul>
-<li>Individual Annotated Bibliography Draft</li>
-<li>Individual Image or Text Storyboard Draft</li>
+<li>Create Individual Annotated Bibliography Draft</li>
+<li>Create Individual Mood Board Draft</li>
+<li>Create Individual Image or Text Storyboard Draft</li>
 </ul></strong></a></td>
 </tr>
 <tr>
 <td>5</td>
 <td>Oct 03<br><a href="week_5_detail.md">Creative Process Annotated Bibliography and Video Documentary <strong>
 <ul>
-<li>Team Annotated Bibliography Draft</li>
-<li>Team Image or Text Storyboard Draft</li>      
+<li>Create Team Annotated Bibliography Draft</li>
+<li>Create Team Mood Board Draft</li>
+<li>Create Team Image or Text Storyboard Draft</li>      
 </ul></strong></a></td>
 <td>Oct 05<br><a href="week_5_detail.md">Creative Process Annotated Bibliography and Video Documentary 
 <strong>
 <ul>
-<li>(if applicable) Team Annotated Bibliography Draft</li>
-<li>(if applicable) Team Image or Text Storyboard Draft</li>
-<li>(if applicable) Animatic Draft</li>
+<li>(if applicable) Iterate Team Annotated Bibliography Draft</li>
+<li>(if applicable) Iterate Mood Board Draft</li>
+<li>(if applicable) Iterate Team Image or Text Storyboard Draft</li>
+<li>(if applicable) Create Animatic Draft</li>
 </ul>
 </strong></a></td>
 </tr>
@@ -68,15 +71,15 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <td>6</td>    
 <td>Oct 10<br><a href="week_6_detail.md">Creative Process Annotated Bibliography and Video Documentary: <strong>
 <ul>
-<li>(if applicable) Animatic draft</li>
-<li>(if applicable) Hybrid Animatic / Video Draft</li>
+<li>(if applicable) Create or Iterate Iterate Animatic draft</li>
+<li>(if applicable) Create Hybrid Animatic / Video Draft</li>
 </ul>
 </strong></a></td>
 <td>Oct 12<br><a href="week_6_detail.md">Creative Process Annotated Bibliography and Video Documentary: 
 <strong>
 <ul>
-<li>Hybrid Animatic / Video Draft or</li>
-<li>Video Draft</li>
+<li>(if applicable) Create or Iterate Hybrid Animatic / Video Draft or</li>
+<li>(if applicable) Create Video Draft</li>
 </ul>
 </strong></a></td>
 </tr>
@@ -85,20 +88,30 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <td>Oct 17<br><a href="week_7_detail.md">Creative Process Annotated Bibliography and Video Documentary: 
 <strong>
 <ul>
-<li>Hybrid Animatic / Video Draft</li>
+<li>Iterate Hybrid Animatic / Video Draft</li>
 </ul>
 </strong></a></td>
 <td>Oct 19<br><a href="week_7_detail.md">Creative Process Annotated Bibliography and Video Documentary
 <strong>
 <ul>
-<li>Hybrid Animatic / Video Draft</li>
+<li>Iterate Hybrid Animatic / Video Draft</li>
 </ul>
 </strong></a></td>
 </tr>
 <tr>
 <td>8</td>     
-<td>Oct 24<br><a href="week_8_detail.md">Creative Process Annotated Bibliography and Video Documentary: <strong><ul><li>Video Draft</li></ul></strong></a></td>
-<td valign="top"><a href="week_8_detail.md">Oct 26<br>Creative Process Annotated Bibliography and Video Documentary: <strong><ul><li>Video Draft</li></ul></strong></a></td>
+<td>Oct 24<br><a href="week_8_detail.md">Creative Process Annotated Bibliography and Video Documentary: 
+<strong>
+<ul>
+<li>Create Video Draft</li>
+</ul>
+</strong></a></td>
+<td valign="top"><a href="week_8_detail.md">Oct 26<br>Creative Process Annotated Bibliography and Video Documentary: 
+<strong>
+<ul>
+<li>Iterate Video Draft</li>
+</ul>
+</strong></a></td>
 </tr> 
 <tr>
 <td>9</td>      
@@ -111,25 +124,26 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <td>Nov 2<br><a href="week_9_detail.md">Future Dystopia / Utopia Project: 
 <strong>
 <ul>
-<li>Ideation</li> 
+<li>Brainstorm Themes &amp; Ideas</li> 
 </ul>
 </strong></a></td>
 </tr>
 <tr>
-<td></td><td>Nov 1 (starting @4:30pm) thru Nov 4<br>Midterm One on Ones<br><strong>Midterm Self-Assessment DUE</strong> <ul><li>Schedule your midterm one on one 30min appointment with me here on <strong>Nov 1 (starting @4:30pm) thru Nov 4</strong> only, not before or afterwards: <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a></li></ul></td>
+<td></td><td>Nov 2 (starting @4:30pm), Nov 3 or Nov 6 (before 4:30pm)<br>Midterm One on Ones<br><br><strong>Midterm Self-Assessment DUE</strong> <ul><li>Schedule your midterm one on one 20min appointment with me here on the above dates only, not before or afterwards: <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a></li></ul></td>
 <td>Mon Nov 6<br><strong><i>Last Day to Withdraw</i></strong></td>
 </tr>
 <tr>
 <td>10</td>     
-<td>Nov 7<br><a href="week_10_detail.md">Phase 2: Research / Ideation / Brainstorming: <ul><li><strong>Storytelling</strong></li></ul>
-Future Dystopia / Utopia Project: 
-<strong><ul>
-<li>Ideation continued</li>     
+<td>Nov 7<br><a href="week_10_detail.md">Future Dystopia / Utopia Project: 
+<strong>
+<ul>
+<li>Ideate Framing Story</li>
+<li>Ideate Message</li>    
 </ul></strong></a></td>
 <td>Nov 9<br><a href="week_10_detail.md">Future Dystopia / Utopia Project: <strong>
 <ul>
-<li>Sketching and Mapping</li>
-<li>Secondary Research</li>
+<li>Iterate Framing Story</li>
+<li>Iterate Message</li>  
 </ul></strong></a></td>
 </tr>
 <tr>
@@ -137,19 +151,23 @@ Future Dystopia / Utopia Project:
 <td>Nov 14<br>
 <a href="week_11_detail.md">
 <ul>
-<li></li>
-<li></li></ul></a></td>
+<li>Brainstorm, Sketch, and Map Object(s)</li>
+<li>Brainstorm, Sketch, and Map Delivery Medium</li>
+<li>Secondary Research</li></ul></a></td>
 <td>Nov 16<br><a href="week_11_detail.md">
 <ul>
-<li></li>
+<li>Iterate Sketches and Maps of Object(s)</li>
+<li>Iterate Sketches and Maps of Delivery Medium</li>
+<li>Secondary Research</li>
 </ul></a></td>
 </tr>
 <tr>
 <td>12</td>   
 <td>Nov 22<br><a href="week_12_detail.md">Future Dystopia / Utopia Project: 
+<strong>
 <ul>
-<li><strong>Storyboard Draft</li>
-<li>(OPTIONAL) Lo-fi Prototype Draft</li>
+<li>Storyboard Draft of Delivery Medium</li>
+<li>Lo-fi Object Prototype Draft</li>
 </ul></strong></a></td>
 <td>Nov 24<br><i>NO CLASS: Thanksgiving Holiday</i></td>
 </tr>
@@ -157,35 +175,47 @@ Future Dystopia / Utopia Project:
 <td>13</td>  
 <td>Nov 28<br><a href="week_13_detail.md">Future Dystopia / Utopia Project: 
 <strong><ul>
-<li><strong>Storyboard Draft</li>
-<li>Lo-fi Prototype Draft</li>
+<li>Iterate Storyboard Draft of Delivery Medium</li>
+<li>Iterate Lo-fi Object Prototype Draft</li>
 </ul></strong></a></td>
-<td>Nov 30<br><a href="week_13_detail.md">Future Dystopia / Utopia Project: <strong><ul>
-<li><strong>Storyboard Draft</li>
-<li>Lo-fi Prototype Draft</li>
+<td>Nov 30<br><a href="week_13_detail.md">Future Dystopia / Utopia Project: 
+<strong>
+<ul>
+<li>Lo-fi Prototype Delivery Medium</li>
+<li>Hi-fi Prototype Draft</li>
 </ul></strong></a></td>
 </tr>
 <tr>
 <td>14</td>    
-<td>Dec 5<br><a href="week_14_detail.md">TBD</td>
-<td>Dec 7<br><a href="week_14_detail.md">Future Dystopia / Utopia Project: <strong><ul>      
-<li>Lo-fi Prototype Draft</li>
+<td>Dec 5<br>
+<a href="week_14_detail.md">
+<strong>
+<ul>
+<li>Iterate Lo-fi Prototype Delivery Medium</li>
+<li>Iterate Hi-fi Prototype Draft</li>
+</ul></strong></a></td>
+<td>Dec 7<br><a href="week_14_detail.md">Future Dystopia / Utopia Project: 
+<strong>
+<ul>      
+<li>Iterate Lo-fi Prototype Delivery Medium</li>
+<li>Iterate Hi-fi Prototype Draft</li>
 </ul></strong></a></td>
 </tr>
 <tr>
 <td>15</td>     
 <td>Dec 12<br><i>NO CLASS: Legislative Day - Classes will meet according to a Monday schedule</i></td>  
-<td>Dec 14<br><br>Future Dystopia / Utopia Project: <ul>
-<li><strong>Hi-Fidelity Prototype Draft</strong></li>      
-</ul></td>
+<td>Dec 14<br><strong><a href="future.md">Future Dystopia / Utopia Project DUE</a></strong>strong></td>
 </tr>
 <tr>
-<td>16</td>
-<td>Dec 19<br><strong><a href="future.md">Future Dystopia / Utopia Project DUE</a></strong> </td>
-<td>Dec (at 10am)<strong>
+<td></td>
+<td>Dec 19<br><strong></strong> </td>
+<td>Fri 12/15 or Mon 12/18 thru Thu 12/21<br>Final One on Ones<br><br><strong></strong> <ul><li>Schedule your final one on one 20min appointment with me here on the above dates only, not before or afterwards: <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a></li></ul>
 <ul>
+<li>Final Self-Assessment DUE</li>
 <li><a href="https://deangela.gitbooks.io/dm1143-ideation-and-prototyping-fall-2016/content/end-of-semester-deliverables.html">End of Semester Deliverables Due</a></li>
-</ul></strong></td>
+</ul>
+</strong></td>
+<td></td>
 </tr>
 </table>
 
