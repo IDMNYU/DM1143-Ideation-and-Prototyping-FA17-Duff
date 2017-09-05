@@ -81,7 +81,7 @@ Discuss:
 <!-- do -->
 <tr>
   <td valign="top">Do</td>
-  <td><ul>
+  <td valign="top"><ul>
   <li>Accept Slack Invitation</li>
   </ul></td>
   <td valign="top">
