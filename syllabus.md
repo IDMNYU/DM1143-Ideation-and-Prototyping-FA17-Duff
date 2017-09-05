@@ -191,20 +191,19 @@ If you are student with a disability who is requesting accommodations, please co
 
 _The following list of required readings may be incomplete and is subject to change. Please see the course website for updates._
 
-*   Brown, Sunni. “[The Miseducation of the Doodle.](http://www.alistapart.com/articles/the-miseducation-of-the-doodle/)” A List Apart. January 25, 2011\.
-*   Peavey, Fran. “[Strategic Questioning: An approach to creating personal and social change.](http://www.context.org/iclib/ic40/peavey)” In Context, Spring 1995\.
-*   Rohde, Mike. “[Sketching: the Visual Thinking Power Tool](http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/)” A List Apart. January 25, 2011\. 
-*   Trollbäck, Jakob. “[One Designer Shares: How to Use Design to Tell a Story.](http://www.howdesign.com/article/storytelling/)” HOW Design. 23 Jan. 2008\. 
+* Brown, Sunni. [The Miseducation of the Doodle.](http://www.alistapart.com/articles/the-miseducation-of-the-doodle/) A List Apart. January 25, 2011.
+* Rohde, Mike. [Sketching: the Visual Thinking Power Tool](http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/) A List Apart. January 25, 2011. 
+* Trollbäck, Jakob. [One Designer Shares: How to Use Design to Tell a Story.](http://www.howdesign.com/article/storytelling/) HOW Design. 23 Jan. 2008. 
+* [IDEO’s Human-centered Design Toolkit](http://www.designkit.org/resources/1) (available free online)
 
 
 ### REQUIRED MEDIA
+_The following list of required media may be incomplete and is subject to change. Please see the course website for updates._
 
-*   [Everything Is A Remix](http://everythingisaremix.info/watch-the-series)
-*   [Ira Glass on storytelling](http://www.youtube.com/watch?v=loxJ3FtCJJA)
-
-
-### REQUIRED SOFTWARE
-
+* [Everything Is A Remix](http://everythingisaremix.info/watch-the-series)
+* [Ira Glass on storytelling](http://www.youtube.com/watch?v=loxJ3FtCJJA)
+* [Metal Gear Solid Documentary: Watch The Making of a Hollywood Game](https://youtu.be/eJVYND_YRx8) 
+* [Metal Gear Solid Documentary: Hideo Kojima's Gene](https://youtu.be/2nM7TLbs6fE)
 
 ### [RECOMMENDED RESOURCES](recommended_resources.md)
 See Appendix
