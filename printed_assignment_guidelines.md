@@ -10,7 +10,7 @@ Any printed work that you will turn in, should always contain the following:
 *   Date
 *   Your first and last name
 *   Ideation &amp; Prototyping
-*   Fall 2016
+*   Fall 2017
 *   Duff
 
 All written assignments should be submitted as a pdf on slack as a direct message to the instructor.

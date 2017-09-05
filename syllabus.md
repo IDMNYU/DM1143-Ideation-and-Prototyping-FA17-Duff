@@ -1,16 +1,15 @@
 # DM-UY 1143 Ideation and Prototyping
-# DRAFT FORM - NOT FINAL
 ![NYU](http://engineering.nyu.edu/files/tandon_long_black.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
     De Angela L. Duff • deangela.duff@nyu.edu • Fall 2017 
-    Tuesdays & Thursday • 2:30PM-4:20PM • 2MTC MAGNET 811 • 3 credit hrs
-    Office hours by appointment or directly after class 
-    Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718 
-    
-    Prerequisite: None
+    Tuesdays & Thursday • 2:30PM-4:20PM • 2MTC MAGNET 811 • 3 credit hrs        
 
-#### Gitbook Repository: 
+#### Office hours by appointment at http://calendly.com/deangela or directly after class 
+
+    Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718 
+
+#### Gitbook Repository: https://deangela.gitbooks.io/dm1143-ideation-and-prototyping-fall-2017/content/
 
 #### Course Management Site: http://bxmc.slack.com 
 
@@ -135,38 +134,49 @@ There will be discrete team and individual exercises and projects that require y
 
 ### EVALUATION & GRADING
 
-*   All work assigned will be completed and delivered on the due date, otherwise you will receive a failing grade for that assignment. In other words, late work will not be accepted.
-*   Makeup assignments are only available when discussed with and approved by the instructor in advance of the due date.
-*   Each student will be judged on the application of the ideas and concepts introduced during the course. Incomplete or unsatisfactory work will receive a failing grade.
- 
-Your final grade will be based on a synthesis of quantitative &amp; qualitative rubrics:
+##### Attendance
 
+* Attendance is mandatory and will be taken at the beginning of every class. Since there is so much technical, conceptual, and design information to absorb, regular attendance is essential.
+* Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent (1/2 a grade point (e.g. A to an A-)) for each additional absence.
+* Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
+* Contact the professor IN ADVANCE if you will not be in class (in person or via direct message on slack is preferred).
+* Attendance is mandatory for the midterm and final presentations / critiques.
+
+#### Your final grade will be based on a synthesis of quantitative &amp; qualitative rubrics:
+
+*   Makeup assignments are only available when discussed with and approved by the instructor in advance of the due date.
+*   
+ 
 ##### Quantitative Grading Overview
 
+*   2% [Input Map](input_map.md)
+*   2% [Love Letter or Breakup Letter](letter.md)
+*   4% [Object Evolution Timeline](evolution_timeline.md)
 *   5% [Self Assessments](self_assessments.md) (2.5% each)
-*   5% [Input Map](input_map.md)
-*   5% [Narrative Timeline of Influences](narrative_timeline.md)
-*   5% [Museum or gallery visit, talk, or meetup](visit_talk_meetup.md)
 *   10% [Notebook or Sketchbook](notebook_or_sketchbook.md)
 *   12% [Constant Input Choices](constant_input_choices.md)
 *   14% [Process Website](process_website.md)
-*   16% [Future Dystopia / Utopia Project](future.md)
-*   28% [Creative Process Annotated Bibliography & Video Documentary](creative_process.md)
+*   20% [Future Dystopia / Utopia Project](future.md)
+*   31% [Creative Process Annotated Bibliography & Video Documentary](creative_process.md)
 
 ##### Qualitative Grading Overview
 
-*   **A Exceptional** (Work of exceptional quality; Exceeds Expectations)
-*   **A- Excellent** (Work of high quality)
-*   **B+ Very Good** 
-*   **B Good** (Solid work, though not of the highest level)
-*   **B-**
-*   **C+ ** (A little above average)
-*   **C Satisfactory** (Average; Satisfies course requirements)
-*   **C- Below average** (but passing)	 
-*   **D+ Poor Work** (but passing)	 
-*   **D Inadequate** (Deficient, but passing)	 
-*   **F Unacceptable** (The performance and/or attendance of the student has failed course requirements.)
+Each student will be judged on the continuous improvement that their work shows. Incomplete or unsatisfactory work will receive a failing grade.
 
+###### A. Excellent (90-100: Work of exceptional quality; Exceeds Expectations)
+Performance, participation, and attendance of the student has been of the highest level, showing sustained excellence in meeting course responsibilities. Work clearly differentiates itself from other work, has memorable impact, pursues concepts and techniques above and beyond what is discussed in class. The student thoroughly understands the theory and practice behind ideation &amp; prototyping.
+
+###### B. Very Good / Good (80-89: Work of high quality)
+Performance, participation, and attendance of the student has been good, though not of the highest level. Work demonstrates a better than average understanding of ideation &amp; prototyping theory & practice.
+
+###### C. Satisfactory (70-79: Average; Satisfies course requirements)
+Performance and attendance of the student has been adequate, satisfactorily meeting the course requirements. Work is average and competent, showing a basic understanding of ideation &amp; prototyping theory & practice.
+
+###### D. Poor; Below Average (60-69: Deficient, but passing)
+Performance and attendance of the student has been less than adequate. Work is lacking in many or most areas that show any understanding of ideation &amp; prototyping. Problems may include lack of interest, procrastination, poor planning and poor craft.
+
+###### F. Unacceptable (59 & Below: Failing Course Requirements)
+Performance and attendance of the student has been such that course requirements have not been met. Work shows no overall understanding of the course material on many levels or either a severe lack of interest. 
 
 ### TECHNOLOGY USE IN THE CLASSROOM
 
@@ -193,20 +203,19 @@ If you are student with a disability who is requesting accommodations, please co
 
 _The following list of required readings may be incomplete and is subject to change. Please see the course website for updates._
 
-*   Brown, Sunni. “[The Miseducation of the Doodle.](http://www.alistapart.com/articles/the-miseducation-of-the-doodle/)” A List Apart. January 25, 2011\.
-*   Peavey, Fran. “[Strategic Questioning: An approach to creating personal and social change.](http://www.context.org/iclib/ic40/peavey)” In Context, Spring 1995\.
-*   Rohde, Mike. “[Sketching: the Visual Thinking Power Tool](http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/)” A List Apart. January 25, 2011\. 
-*   Trollbäck, Jakob. “[One Designer Shares: How to Use Design to Tell a Story.](http://www.howdesign.com/article/storytelling/)” HOW Design. 23 Jan. 2008\. 
+* Brown, Sunni. [The Miseducation of the Doodle.](http://www.alistapart.com/articles/the-miseducation-of-the-doodle/) A List Apart. January 25, 2011.
+* Rohde, Mike. [Sketching: the Visual Thinking Power Tool](http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/) A List Apart. January 25, 2011. 
+* Trollbäck, Jakob. [One Designer Shares: How to Use Design to Tell a Story.](http://www.howdesign.com/article/storytelling/) HOW Design. 23 Jan. 2008. 
+* [IDEO’s Human-centered Design Toolkit](http://www.designkit.org/resources/1) (available free online)
 
 
 ### REQUIRED MEDIA
+_The following list of required media may be incomplete and is subject to change. Please see the course website for updates._
 
-*   [Everything Is A Remix](http://everythingisaremix.info/watch-the-series)
-*   [Ira Glass on storytelling](http://www.youtube.com/watch?v=loxJ3FtCJJA)
-
-
-### REQUIRED SOFTWARE
-
+* [Everything Is A Remix](http://everythingisaremix.info/watch-the-series)
+* [Ira Glass on storytelling](http://www.youtube.com/watch?v=loxJ3FtCJJA)
+* [Metal Gear Solid Documentary: Watch The Making of a Hollywood Game](https://youtu.be/eJVYND_YRx8) 
+* [Metal Gear Solid Documentary: Hideo Kojima's Gene](https://youtu.be/2nM7TLbs6fE)
 
 ### [RECOMMENDED RESOURCES](recommended_resources.md)
 See Appendix
@@ -214,7 +223,7 @@ See Appendix
 
 ### PROJECTS & ASSIGNMENTS
 
-All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname_i&d_fa17_assignmentname (i.e. dduff_i&d_fa17_assignmentname.pdf)
+All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname_i&p_fa17_assignmentname (i.e. dduff_i&p_fa17_assignmentname.pdf)
 
 
 #### Projects
@@ -223,12 +232,13 @@ All due dates can be found in the calendar. This is just an overview and descrip
 
 #### Assignments
 * [Constant Input Choices](constant_input_choices.md)
+* [Personal Inventory](personal_inventory.md)
 * [Input Map](input_map.md)
 * [Process Website](process_website.md)
-* [Iteration Timeline](iteration_timeline.md)
+* [Love Letter or Breakup Letter](letter.md)
+* [Object Evolution Timeline](evolution_timeline.md)
 * [Notebook or Sketchbook](notebook_or_sketchbook.md)
 * [Self Assessments](self_assessments.md) 
-* [Museum or gallery visit, talk, or meetup](visit_talk_meetup.md)
 
 ### [SCHEDULE OVERVIEW GRID](schedule.md)
 See Appendix
