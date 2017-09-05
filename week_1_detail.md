@@ -49,7 +49,7 @@ Review:
 </ul>
 Discuss:
   <ul>
-  <li>Assignment: Input Maps</li>
+  <li>Assignment: Inputs Map</li>
   </ul>
 </td>
  
@@ -85,7 +85,7 @@ Discuss:
   </ul></td>
   <td valign="top">
   <ul>
-  <li>Read Syllabus and Ask Questions about the course and syllabus during our first class</li>
+  <li>Read Syllabus and Ask Questions about the course and syllabus during class</li>
   <li>Get setup with a <a href="process_website.md">process website</a> to post your homework</li>
   <li>Post your wordpress or tumblr URL to the ip_fa17 slack channel</li>
   <li>Read <a href="http://teaching.polishedsolid.com/ip/mod1/content/index.html" target="_blank">Module 1</a></li>
