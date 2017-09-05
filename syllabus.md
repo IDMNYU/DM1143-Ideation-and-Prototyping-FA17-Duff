@@ -14,7 +14,7 @@
 #### Course Management Site: http://bxmc.slack.com 
 
 ---
-_&quot;“I have no special talents. I am only passionately curious.”&quot;_
+_&quot;I have no special talents. I am only passionately curious.&quot;_
 
 _~Albert Einstein_
 
