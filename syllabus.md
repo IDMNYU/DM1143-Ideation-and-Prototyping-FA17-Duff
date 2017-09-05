@@ -14,13 +14,7 @@
 #### Course Management Site: http://bxmc.slack.com 
 
 ---
-_&quot;I am enough of an artist to draw freely upon my imagination._
-
-_Imagination is more important than knowledge._
-
-_Knowledge is limited._
-
-_Imagination encircles the world.&quot;_
+_&quot;I have no special talents. I am only passionately curious.&quot;_
 
 _~Albert Einstein_
 
@@ -29,6 +23,8 @@ _~Albert Einstein_
 ## Welcome to Ideation &amp; Prototyping!
 
 In this class, the creative process will be investigated in order to generate ideas for art, design, technology, and business endeavors. The course will show how ideation, design research &amp; thinking, and prototyping can inspire, inform, and bring depth to what one ultimately creates. Students will expand their arsenal of design research skills, learn how to think critically about their audience, content, form, and processes, as well as, understand the importance of utilizing more than one research and design strategy.
+
+Prerequisite: None
 
 ### PROGRAM GOALS
 
@@ -144,8 +140,8 @@ There will be discrete team and individual exercises and projects that require y
 
 #### Your final grade will be based on a synthesis of quantitative &amp; qualitative rubrics:
 
-*   Makeup assignments are only available when discussed with and approved by the instructor in advance of the due date.
-*   
+* Makeup assignments are only available when discussed with and approved by the instructor in advance of the due date.
+* Each student will be judged on the commitment, fearlessness, and continuous improvement that their work shows. Incomplete or unsatisfactory work will receive a failing grade.
  
 ##### Quantitative Grading Overview
 
@@ -161,21 +157,19 @@ There will be discrete team and individual exercises and projects that require y
 
 ##### Qualitative Grading Overview
 
-Each student will be judged on the continuous improvement that their work shows. Incomplete or unsatisfactory work will receive a failing grade.
-
-###### A. Excellent (90-100: Work of exceptional quality; Exceeds Expectations)
+##### A. Excellent (90-100: Work of exceptional quality; Exceeds Expectations)
 Performance, participation, and attendance of the student has been of the highest level, showing sustained excellence in meeting course responsibilities. Work clearly differentiates itself from other work, has memorable impact, pursues concepts and techniques above and beyond what is discussed in class. The student thoroughly understands the theory and practice behind ideation &amp; prototyping.
 
-###### B. Very Good / Good (80-89: Work of high quality)
+##### B. Very Good / Good (80-89: Work of high quality)
 Performance, participation, and attendance of the student has been good, though not of the highest level. Work demonstrates a better than average understanding of ideation &amp; prototyping theory & practice.
 
-###### C. Satisfactory (70-79: Average; Satisfies course requirements)
+##### C. Satisfactory (70-79: Average; Satisfies course requirements)
 Performance and attendance of the student has been adequate, satisfactorily meeting the course requirements. Work is average and competent, showing a basic understanding of ideation &amp; prototyping theory & practice.
 
-###### D. Poor; Below Average (60-69: Deficient, but passing)
+##### D. Poor; Below Average (60-69: Deficient, but passing)
 Performance and attendance of the student has been less than adequate. Work is lacking in many or most areas that show any understanding of ideation &amp; prototyping. Problems may include lack of interest, procrastination, poor planning and poor craft.
 
-###### F. Unacceptable (59 & Below: Failing Course Requirements)
+##### F. Unacceptable (59 & Below: Failing Course Requirements)
 Performance and attendance of the student has been such that course requirements have not been met. Work shows no overall understanding of the course material on many levels or either a severe lack of interest. 
 
 ### TECHNOLOGY USE IN THE CLASSROOM
@@ -213,7 +207,7 @@ _The following list of required readings may be incomplete and is subject to cha
 _The following list of required media may be incomplete and is subject to change. Please see the course website for updates._
 
 * [Everything Is A Remix](http://everythingisaremix.info/watch-the-series)
-* [Ira Glass on storytelling](http://www.youtube.com/watch?v=loxJ3FtCJJA)
+* [Ira Glass on storytelling](https://www.youtube.com/watch?v=5pFI9UuC_fc&list=PLE108783228F1E008)
 * [Metal Gear Solid Documentary: Watch The Making of a Hollywood Game](https://youtu.be/eJVYND_YRx8) 
 * [Metal Gear Solid Documentary: Hideo Kojima's Gene](https://youtu.be/2nM7TLbs6fE)
 

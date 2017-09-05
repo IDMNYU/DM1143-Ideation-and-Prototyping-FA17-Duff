@@ -86,7 +86,8 @@ Discuss:
   <td valign="top">
   <ul>
   <li>Read Syllabus and Ask Questions about the course and syllabus during class</li>
-  <li>Get setup with a <a href="process_website.md">process website</a> to post your homework</li>
+  <li>Read or View <a href="https://drive.google.com/open?id=0B3GbS-Wqk2AHODlPWXVQWkFBNGM">Letters for the Next Cohort from Spring 2017</a> with your NYU google account</li>
+  <li>Get setup with a <a href="process_website.md" target="_blank">process website</a> to post your homework</li>
   <li>Post your wordpress or tumblr URL to the ip_fa17 slack channel</li>
   <li>Read <a href="http://teaching.polishedsolid.com/ip/mod1/content/index.html" target="_blank">Module 1</a></li>
   <li>Create your first post on your process website; post your constant input details (what are you going to do?) including proposed schedule (when? actual dates. make due dates tuesdays.)</li>

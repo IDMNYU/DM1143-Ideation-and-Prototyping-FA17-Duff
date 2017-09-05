@@ -5,25 +5,25 @@
 
 **Recommended Audio Podcasts**
 
-*   _Revision Path_ Maurice Cherry interviews designers, developers, and other creators of color weekly.
-*   _StartUp Podcast_StartUp is a podcast series about what it’s really like to get a business off the ground.
+*   [Revision Path](https://itunes.apple.com/us/podcast/revision-path/id834173190?mt=2) Maurice Cherry interviews designers, developers, and other creators of color weekly.
+*   [StartUp Podcast](https://itunes.apple.com/us/podcast/startup-podcast/id913805339?mt=2) StartUp is a podcast series about what it’s really like to get a business off the ground.
     *   In Season 1, Alex Blumberg told the story of launching this business, Gimlet Media, a podcast network.
     *   In Season 2, Lisa Chow joined Alex to follow an entirely new company: a company called Dating Ring, founded by two women in their 20s, outsiders in the male-dominated world of Silicon Valley.
     *   In Season 3, rather than following one company over many episodes, they are telling stories about many companies that all have something in common: their companies are stuck, and they know they need to make a big change.
-*   _The Tim Ferriss Show_ Tim Ferriss deconstructs world-class performers from eclectic areas (investing, sports, business, art, etc.) to extract the tactics, tools, and routines you can use. This includes favorite books, morning routines, exercise habits, time-management tricks, and much more.
-*   _Unmistakeable Creative_Srini Rao interviews instigators, rebels, and people with a pathological inability to accept the status quo.
+*   [The Tim Ferriss Show](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) Tim Ferriss deconstructs world-class performers from eclectic areas (investing, sports, business, art, etc.) to extract the tactics, tools, and routines you can use. This includes favorite books, morning routines, exercise habits, time-management tricks, and much more.
+*   [Unmistakeable Creative](https://itunes.apple.com/us/podcast/unmistakable-creative/id352721366?mt=2) Srini Rao interviews instigators, rebels, and people with a pathological inability to accept the status quo.
 
 **Recommended Books**
 
 _Idea Generation_
 
-*   _Cracking Creativity_ by Michael Michalko
-*   _IdeaSpotting: How to Find Your Next Great Idea_ by Sam Harrison
-*   IDEO method cards
-*   _Steal like an Artist_ by Austin Kleon
-*   _The Art of Looking Sideways_ by Alan Fletcher
-*   _Thinkertoys: A Handbook of Creative-Thinking Techniques_ by Michael Michalko
-*   Thinkpak cards
+*   [Cracking Creativity](https://www.amazon.com/Cracking-Creativity-Secrets-Creative-Genius-ebook/dp/B004S3H1LQ/) by Michael Michalko
+*   [IdeaSpotting: How to Find Your Next Great Idea](https://www.amazon.com/IdeaSpotting-Find-Your-Next-Great-ebook/dp/B00G8NXGEK/) by Sam Harrison
+*   [IDEO method cards]()
+*   [Steal like an Artist](https://www.amazon.com/Steal-Like-Artist-Things-Creative-ebook/dp/B0074QGGK6/) by Austin Kleon
+*   [The Art of Looking Sideways](https://www.amazon.com/Art-Looking-Sideways-Alan-Fletcher/dp/0714834491/) by Alan Fletcher
+*   [Thinkertoys: A Handbook of Creative-Thinking Techniques](https://www.amazon.com/Thinkertoys-Creative-Thinking-Techniques-Michael-Michalko-ebook/dp/B004CFAWU2/) by Michael Michalko
+*   [Thinkpak cards](https://www.amazon.com/Thinkpak-Brainstorming-Card-Michael-Michalko-ebook/dp/B00G8ELVSM/)
 
 _Artists’ &amp; Designers’ Processes_
 
@@ -62,7 +62,7 @@ _Mapping_
 
 _Prototyping_
 
-*   _[Getting Real](http://gettingreal.37signals.com)_ by 37Signals 
+*   [Getting Real](http://gettingreal.37signals.com) by 37Signals 
 *   _Show Your Work_ by Austin Kleon
 
 **Recommended Writing Resources**
@@ -76,8 +76,8 @@ _Prototyping_
 **Recommended Media**
 
 *   [Afrigadget](http://www.afrigadget.com)
-*   Brown, Tim. “[Design Thinking](http://www.ideo.com/images/uploads/news/pdfs/IDEO_HBR_Design_Thinking.pdf)” Harvard Business Review. June 2008. 
-*   Citizen Architect, Sam Mockbee &amp; Rural Studio –http://video.pbs.org/program/1548466406
+*   Brown, Tim. [Design Thinking](http://www.ideo.com/images/uploads/news/pdfs/IDEO_HBR_Design_Thinking.pdf) Harvard Business Review. June 2008. 
+*   [Citizen Architect, Sam Mockbee &amp; Rural Studio](http://video.pbs.org/program/1548466406)
 *   Cognitive Media [Process](https://www.wearecognitive.com/our-process) and [Work](https://www.wearecognitive.com/our-work) (visual scribing / note-taking) 
 *   Dan Roam: [&quot;Blah Blah Blah: What To Do When Words Don&#039;t Work&quot;](https://www.youtube.com/watch?v=PsrFuXefZ1Q)  | Talks at Google
 *   ["The Deep Dive,"](http://www.youtube.com/watch?v=JkHOxyafGpE) ABC's Nightline
@@ -93,25 +93,26 @@ _Prototyping_
 
 _Mapping_
 
-*   Coggle
-*   FreeMind
-*   Inspiration Software
-*   OmniGraffle
-*   MindMeister
+* [Coggle](https://coggle.it/)
+* [Freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
+* [Inspiration Software](http://www.inspiration.com/Inspiration)
+* [OmniGraffle](https://www.omnigroup.com/omnigraffle)
+* [MindMeister](https://www.mindmeister.com/)
+
 
 
 **Recommended Resources for Creative Process Annotated Bibliograpy and Video Documentary**
 * Animatic
   * [http://www.artofthetitle.com/title/six-feet-under/](http://www.artofthetitle.com/title/six-feet-under/)
 * Fair Use Media (images / audio /video)
-  * http://creativecommons.org 
-  * https://www.pond5.com/
+  * [http://creativecommons.org](http://creativecommons.org) 
+  * [https://www.pond5.com/](https://www.pond5.com/)
 * Royalty-Free sound 
   * [http://freesound.org](http://freesound.org) 
-  * http://freemusicarchive.org
-  * http://ccmixter.org
-  * http://soundbible.com
-  * http://www.audioblocks.com
+  * [http://freemusicarchive.org](http://freemusicarchive.org)
+  * [http://ccmixter.org](http://ccmixter.org)
+  * [http://soundbible.com](http://soundbible.com)
+  * [http://www.audioblocks.com](http://www.audioblocks.com)
   * [http://incompetech.com](http://incompetech.com)
 * Creative Commons Video
   * [http://archive.org](http://archive.org)
