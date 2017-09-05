@@ -57,7 +57,7 @@ Discuss:
 
 <!-- watch -->
 <tr>
-  <td valign="top">watch</td>
+  <td valign="top">Watch</td>
   <td></td>
   <td>Watch at least three of your classmates' personal inventory videos.</td> 
 </tr>
@@ -65,21 +65,21 @@ Discuss:
 
 <!-- film -->
 <tr>
-<td>film and post by or BEFORE noon at Thursday</td>
+<td>Film and post by or BEFORE noon at Thursday</td>
 <td></td>
 <td><a href="personal_inventory.md">Your Personal Inventory</a></td>
 </tr>
 
 <!-- write -->
 <tr>
-<td>write (on your process website)</td>
+<td>Write (on your process website)</td>
 <td></td>
 <td>Write responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos.</td>
 </tr>
 
 <!-- do -->
 <tr>
-  <td valign="top">do</td>
+  <td valign="top">Do</td>
   <td><ul>
   <li>Accept Slack Invitation</li>
   </ul></td>
@@ -89,6 +89,7 @@ Discuss:
   <li>Get setup with a <a href="process_website.md">process website</a> to post your homework</li>
   <li>Post your wordpress or tumblr URL to the ip_fa17 slack channel</li>
   <li>Read <a href="http://teaching.polishedsolid.com/ip/mod1/content/index.html" target="_blank">Module 1</a></li>
+  <li>Create your first post on your process website; post your constant input details (what are you going to do?) including proposed schedule (when? actual dates. make due dates tuesdays.)</li>
   </td>
 </table>
 

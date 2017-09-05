@@ -3,6 +3,12 @@
 
 # Inputs Map
 
-Create a mind map or concept map of all of the various inputs in your life (i.e. this is the total range of what comes into you from outside of your own imagination.) 
+Create a "mind map" or "concept map" of all of the various inputs in your life. This should cover the total range of what comes into you from outside of your own imagination. Post your inputs map to your process website. You may have to upload "micro" (zoomed in) and "macro" (zoomed out) views of your map as images. You may also create multiple input maps. 
 
-Post to your process website. You may have to upload micro and macro views of your map as images.
+For those of you who want to "go digital," here are some tools you might consider using (but not limited to):
+* Coggle
+* Freemind
+* Inspiration Software
+* OmniGraffle
+* MindMeister
+

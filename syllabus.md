@@ -135,7 +135,6 @@ There will be discrete team and individual exercises and projects that require y
 
 ### EVALUATION & GRADING
 
-*   All work assigned will be completed and delivered on the due date, otherwise you will receive a failing grade for that assignment. In other words, late work will not be accepted.
 *   Makeup assignments are only available when discussed with and approved by the instructor in advance of the due date.
 *   Each student will be judged on the application of the ideas and concepts introduced during the course. Incomplete or unsatisfactory work will receive a failing grade.
  
@@ -143,14 +142,15 @@ Your final grade will be based on a synthesis of quantitative &amp; qualitative 
 
 ##### Quantitative Grading Overview
 
+*   2% [Input Map](input_map.md)
+*   2% [Love Letter or Breakup Letter](letter.md)
+*   4% [Object Evolution Timeline](evolution_timeline.md)
 *   5% [Self Assessments](self_assessments.md) (2.5% each)
-*   5% [Input Map](input_map.md)
-*   5% [Object Evolution Timeline](evolution_timeline.md)
 *   10% [Notebook or Sketchbook](notebook_or_sketchbook.md)
 *   12% [Constant Input Choices](constant_input_choices.md)
 *   14% [Process Website](process_website.md)
 *   20% [Future Dystopia / Utopia Project](future.md)
-*   29% [Creative Process Annotated Bibliography & Video Documentary](creative_process.md)
+*   31% [Creative Process Annotated Bibliography & Video Documentary](creative_process.md)
 
 ##### Qualitative Grading Overview
 
@@ -225,6 +225,7 @@ All due dates can be found in the calendar. This is just an overview and descrip
 * [Personal Inventory](personal_inventory.md)
 * [Input Map](input_map.md)
 * [Process Website](process_website.md)
+* [Love Letter or Breakup Letter](letter.md)
 * [Object Evolution Timeline](evolution_timeline.md)
 * [Notebook or Sketchbook](notebook_or_sketchbook.md)
 * [Self Assessments](self_assessments.md) 

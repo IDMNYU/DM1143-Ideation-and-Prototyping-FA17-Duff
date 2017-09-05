@@ -16,19 +16,17 @@
   <td valign="top" width="48%"><strong>Sep 12</strong></td>
   <td valign="top" width="48%"><strong>Sep 14</strong></td>
 </tr>
+<!--class-->
 <tr>
 <td valign="top">class</td>
-<!--inputs-->
+
 <td valign="top">
 <ul>
 <li>Review Readings</li>
 <li>Review Input Maps</li>
 </ul>
 </td>
-
-<!-- media studies -->
 <td valign="top" width="48%">
-Review:
 <ul>
 <li>Review Interviews in <a href="http://www.designkit.org/resources/1">IDEO’s Human-centered Design Toolkit</a> (available free online)</li>
 <li>Pair students for Classmate Discovery</li>
@@ -44,12 +42,12 @@ Review:
  
 </tr>
 
-<!-- watch -->
+<!-- read -->
 <tr>
-  <td valign="top">read</td>
+  <td valign="top">Read</td>
   <td>
   <ul>
-  <li>Read <a href="http://teaching.polishedsolid.com/ip/mod2/content/index.html" target="_blank">Module 2</a></li>
+  <li><a href="http://teaching.polishedsolid.com/ip/mod2/content/index.html" target="_blank">Module 2</a></li>
   <li>Rohde, Mike. “<a href="http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/">Sketching: the Visual Thinking Power Tool.</a>” A List Apart. January 25, 2011. </li>
 <li>Brown, Sunni. “<a href="http://www.alistapart.com/articles/the-miseducation-of-the-doodle/" target="_blank">The Miseducation of the Doodle.</a>” A List Apart. January 25, 2011. </li>
 </ul>
@@ -61,18 +59,21 @@ Review:
 <!-- create -->
 <tr>
 <td>Create</td>
-<td><a href="input_map.md">Your Inputs Map</a></td>
 <td>
 <ul>
+<li><a href="input_map.md">Your Inputs Map</a></li>
 <li>(if applicable this week), your <a href="">constant input / output assignment</a> on your process website.</li>
-</ul></td>
+</ul>
+</td>
+<td>
+</td>
 </tr>
 
 <!-- write -->
 <tr>
-<td>write and post on tumblr or wordpress</td>
+<td>Write and post on process website</td>
 <td>After reading both articles... Between the two articles, Sketching: the Visual Thinking Power Tool and The Miseducation of the Doodle, write a reading response to the article that resonated with you the most. Do not write a summary. In other words, do not regurgitate the article. Discuss any epiphanies or insights that occurred while reading, how it reflects your own creative process (or does not and why) or how it will inform or change your own process (or will not and why).</td>
-<td>Your constant input details (what are you going to do?) including proposed schedule (when? actual dates. make due dates tuesdays.)</td>
+<td></td>
 </tr>
 </table>
 
