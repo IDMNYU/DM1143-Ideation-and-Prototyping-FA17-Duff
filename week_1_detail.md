@@ -33,7 +33,7 @@
 </ul>
 Discuss:
 <ul>
-<li>Assignment: Constant Input Choices</li>
+<li>Assignment: Constant Input &amp; Output Choices</li>
 <li>Assignment: Process Website</li>
 <li>Assignment: Personal Inventories</li>
 <li>(if time) Assignment: Notebook or Sketchbook
@@ -49,12 +49,7 @@ Review:
 </ul>
 Discuss:
   <ul>
-  <li>Word Lists
-  <li>Mind Maps
-  <li>Concept Maps
-  <li>Freewriting
-  <li>Journals and Sketchbooks
-  <li>Verbal Literacy
+  <li>Assignment: Input Maps</li>
   </ul>
 </td>
  
@@ -87,10 +82,10 @@ Discuss:
   <td valign="top">do</td>
   <td><ul>
   <li>Accept Slack Invitation</li>
-  <li>Read Syllabus and Ask Questions about the course and syllabus during our first class</li>
   </ul></td>
   <td valign="top">
   <ul>
+  <li>Read Syllabus and Ask Questions about the course and syllabus during our first class</li>
   <li>Get setup with a <a href="process_website.md">process website</a> to post your homework</li>
   <li>Post your wordpress or tumblr URL to the ip_fa17 slack channel</li>
   <li>Read <a href="http://teaching.polishedsolid.com/ip/mod1/content/index.html" target="_blank">Module 1</a></li>
