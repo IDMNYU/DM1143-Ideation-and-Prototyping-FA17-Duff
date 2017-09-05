@@ -17,13 +17,13 @@
 
 _Idea Generation_
 
-*   _Cracking Creativity_ by Michael Michalko
-*   _IdeaSpotting: How to Find Your Next Great Idea_ by Sam Harrison
-*   IDEO method cards
-*   _Steal like an Artist_ by Austin Kleon
-*   _The Art of Looking Sideways_ by Alan Fletcher
-*   _Thinkertoys: A Handbook of Creative-Thinking Techniques_ by Michael Michalko
-*   Thinkpak cards
+*   [Cracking Creativity](https://www.amazon.com/Cracking-Creativity-Secrets-Creative-Genius-ebook/dp/B004S3H1LQ/) by Michael Michalko
+*   [IdeaSpotting: How to Find Your Next Great Idea](https://www.amazon.com/IdeaSpotting-Find-Your-Next-Great-ebook/dp/B00G8NXGEK/) by Sam Harrison
+*   [IDEO method cards]()
+*   [Steal like an Artist](https://www.amazon.com/Steal-Like-Artist-Things-Creative-ebook/dp/B0074QGGK6/) by Austin Kleon
+*   [The Art of Looking Sideways](https://www.amazon.com/Art-Looking-Sideways-Alan-Fletcher/dp/0714834491/) by Alan Fletcher
+*   [Thinkertoys: A Handbook of Creative-Thinking Techniques](https://www.amazon.com/Thinkertoys-Creative-Thinking-Techniques-Michael-Michalko-ebook/dp/B004CFAWU2/) by Michael Michalko
+*   [Thinkpak cards](https://www.amazon.com/Thinkpak-Brainstorming-Card-Michael-Michalko-ebook/dp/B00G8ELVSM/)
 
 _Artists’ &amp; Designers’ Processes_
 
@@ -76,8 +76,8 @@ _Prototyping_
 **Recommended Media**
 
 *   [Afrigadget](http://www.afrigadget.com)
-*   Brown, Tim. “[Design Thinking](http://www.ideo.com/images/uploads/news/pdfs/IDEO_HBR_Design_Thinking.pdf)” Harvard Business Review. June 2008. 
-*   Citizen Architect, Sam Mockbee &amp; Rural Studio –http://video.pbs.org/program/1548466406
+*   Brown, Tim. [Design Thinking](http://www.ideo.com/images/uploads/news/pdfs/IDEO_HBR_Design_Thinking.pdf) Harvard Business Review. June 2008. 
+*   [Citizen Architect, Sam Mockbee &amp; Rural Studio](http://video.pbs.org/program/1548466406)
 *   Cognitive Media [Process](https://www.wearecognitive.com/our-process) and [Work](https://www.wearecognitive.com/our-work) (visual scribing / note-taking) 
 *   Dan Roam: [&quot;Blah Blah Blah: What To Do When Words Don&#039;t Work&quot;](https://www.youtube.com/watch?v=PsrFuXefZ1Q)  | Talks at Google
 *   ["The Deep Dive,"](http://www.youtube.com/watch?v=JkHOxyafGpE) ABC's Nightline
@@ -105,14 +105,14 @@ _Mapping_
 * Animatic
   * [http://www.artofthetitle.com/title/six-feet-under/](http://www.artofthetitle.com/title/six-feet-under/)
 * Fair Use Media (images / audio /video)
-  * http://creativecommons.org 
-  * https://www.pond5.com/
+  * [http://creativecommons.org](http://creativecommons.org) 
+  * [https://www.pond5.com/](https://www.pond5.com/)
 * Royalty-Free sound 
   * [http://freesound.org](http://freesound.org) 
-  * http://freemusicarchive.org
-  * http://ccmixter.org
-  * http://soundbible.com
-  * http://www.audioblocks.com
+  * [http://freemusicarchive.org](http://freemusicarchive.org)
+  * [http://ccmixter.org](http://ccmixter.org)
+  * [http://soundbible.com](http://soundbible.com)
+  * [http://www.audioblocks.com](http://www.audioblocks.com)
   * [http://incompetech.com](http://incompetech.com)
 * Creative Commons Video
   * [http://archive.org](http://archive.org)
