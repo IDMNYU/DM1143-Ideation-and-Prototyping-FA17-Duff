@@ -3,11 +3,11 @@
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
     De Angela L. Duff • deangela.duff@nyu.edu • Fall 2017 
-    Tuesdays & Thursday • 2:30PM-4:20PM • 2MTC MAGNET 811 • 3 credit hrs
-    Office hours by appointment at http://calendly.com/deangela or directly after class 
+    Tuesdays & Thursday • 2:30PM-4:20PM • 2MTC MAGNET 811 • 3 credit hrs        
+
+#### Office hours by appointment at http://calendly.com/deangela or directly after class 
+
     Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718 
-    
-    Prerequisite: None
 
 #### Gitbook Repository: https://deangela.gitbooks.io/dm1143-ideation-and-prototyping-fall-2017/content/
 
@@ -134,11 +134,19 @@ There will be discrete team and individual exercises and projects that require y
 
 ### EVALUATION & GRADING
 
+##### Attendance
+
+* Attendance is mandatory and will be taken at the beginning of every class. Since there is so much technical, conceptual, and design information to absorb, regular attendance is essential.
+* Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent (1/2 a grade point (e.g. A to an A-)) for each additional absence.
+* Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
+* Contact the professor IN ADVANCE if you will not be in class (in person or via direct message on slack is preferred).
+* Attendance is mandatory for the midterm and final presentations / critiques.
+
+#### Your final grade will be based on a synthesis of quantitative &amp; qualitative rubrics:
+
 *   Makeup assignments are only available when discussed with and approved by the instructor in advance of the due date.
 *   Each student will be judged on the application of the ideas and concepts introduced during the course. Incomplete or unsatisfactory work will receive a failing grade.
  
-Your final grade will be based on a synthesis of quantitative &amp; qualitative rubrics:
-
 ##### Quantitative Grading Overview
 
 *   2% [Input Map](input_map.md)
