@@ -3,8 +3,7 @@
 # DRAFT FORM - NOT FINAL
 # Schedule
 
-_The class website is the official source for all dates and assignments; the syllabus is NOT. The syllabus provides a general overview and guideline for the course. The website is a living, dynamic document. Active learning requires flexibility and the investigation of unforeseen paths which may diverge from the specifics outlined below._
-
+_Gitbook is the official source for all dates and assignments; the syllabus is NOT. The syllabus provides a general overview and guideline for the course. The website is a living, dynamic document. Active learning requires flexibility and the investigation of unforeseen paths which may diverge from the specifics outlined below._
 
 **All dates and assignments are subject to change at the discretion of the professor! Gitbook and slack are the official sources for all dates and assignments.**
 
@@ -44,86 +43,79 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <td valign="top">Sep 26<br><a href="week_4_detail.md"></a><strong>Process</strong></strong></td>
 <td valign="top">Sep 28<br>Creative Process Annotated Bibliography and Video Documentary:
 <a href="week_4_detail.md"></a> 
-<strong>
 <ul>
 <li>Create Individual Annotated Bibliography Draft</li>
 <li>Create Individual Mood Board Draft</li>
 <li>Create Individual Image or Text Storyboard Draft</li>
-</ul></strong></td>
+</ul>
+</td>
 </tr>
 <tr>
 <td valign="top">5</td>
 <td valign="top">Oct 03<br>Creative Process Annotated Bibliography and Video Documentary:
 <a href="week_5_detail.md"></a>
-<strong>
 <ul>
 <li>Create Team Annotated Bibliography Draft</li>
 <li>Create Team Mood Board Draft</li>
 <li>Create Team Image or Text Storyboard Draft</li>      
-</ul></strong></td>
+</ul>
+</td>
 <td valign="top">Oct 05<br>Creative Process Annotated Bibliography and Video Documentary:
 <a href="week_5_detail.md"></a>
-<strong>
 <ul>
 <li>(if applicable) Iterate Team Annotated Bibliography Draft</li>
 <li>(if applicable) Iterate Mood Board Draft</li>
 <li>(if applicable) Iterate Team Image or Text Storyboard Draft</li>
 <li>(if applicable) Create Animatic Draft</li>
 </ul>
-</strong></td>
+</td>
 </tr>
 <tr>
 <td valign="top">6</td>    
 <td valign="top">Oct 10<br>Creative Process Annotated Bibliography and Video Documentary:
 <a href="week_6_detail.md"></a>
-<strong>
 <ul>
 <li>(if applicable) Create or Iterate Iterate Animatic draft</li>
 <li>(if applicable) Create Hybrid Animatic / Video Draft</li>
 </ul>
-</strong></td>
+</td>
 <td valign="top">Oct 12<br>Creative Process Annotated Bibliography and Video Documentary:
 <a href="week_6_detail.md"></a>
-<strong>
 <ul>
 <li>(if applicable) Create or Iterate Hybrid Animatic / Video Draft or</li>
 <li>(if applicable) Create Video Draft</li>
 </ul>
-</strong></td>
+</td>
 </tr>
 <tr>
 <td valign="top">7</td>     
 <td valign="top">Oct 17<br>Creative Process Annotated Bibliography and Video Documentary: 
 <a href="week_7_detail.md"></a>
-<strong>
 <ul>
 <li>Iterate Hybrid Animatic / Video Draft</li>
 </ul>
-</strong></td>
+</td>
 <td valign="top">Oct 19<br>Creative Process Annotated Bibliography and Video Documentary:
 <a href="week_7_detail.md"></a>
-<strong>
 <ul>
 <li>Iterate Hybrid Animatic / Video Draft</li>
 </ul>
-</strong></td>
+</td>
 </tr>
 <tr>
 <td valign="top">8</td>     
 <td valign="top">Oct 24<br>Creative Process Annotated Bibliography and Video Documentary: 
 <a href="week_8_detail.md"></a>
-<strong>
 <ul>
 <li>Create Video Draft</li>
 </ul>
-</strong></td>
+</td>
 <td valign="top">Oct 26<br>Creative Process Annotated Bibliography and Video Documentary: 
 <a href="week_8_detail.md"></a>
-<strong>
 <ul>
 <li>Iterate Video Draft</li>
 </ul>
-</strong></td>
+</td>
 </tr> 
 <tr>
 <td valign="top">9</td>      
@@ -133,14 +125,14 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <ul>
 <li>Creative Process Video Documentary DUE</li>
 <li>Final Annotated Bibliography DUE</li>
-</ul></td>
+</ul>
+</strong></td>
 <td valign="top">Nov 2<br>Future Dystopia / Utopia Project: 
 <a href="week_9_detail.md"></a>
-<strong>
 <ul>
 <li>Brainstorm Themes &amp; Ideas</li> 
 </ul>
-</strong></td>
+</td>
 </tr>
 <tr>
 <td valign="top"></td>
@@ -158,16 +150,16 @@ Midterm Self-Assessment DUE
 <td valign="top">10</td>     
 <td valign="top">Nov 7<br>Future Dystopia / Utopia Project: 
 <a href="week_10_detail.md"></a>
-<strong>
 <ul>
 <li>Ideate Framing Story</li>
 <li>Ideate Message</li>    
-</ul></strong></td>
-<td valign="top">Nov 9<br>Future Dystopia / Utopia Project: <a href="week_10_detail.md"><strong>
+</ul>
+</td>
+<td valign="top">Nov 9<br>Future Dystopia / Utopia Project: <a href="week_10_detail.md"></a>
 <ul>
 <li>Iterate Framing Story</li>
 <li>Iterate Message</li>  
-</ul></strong></a></td>
+</ul></td>
 </tr>
 <tr>
 <td valign="top">11</td>   
@@ -176,7 +168,8 @@ Midterm Self-Assessment DUE
 <ul>
 <li>Brainstorm, Sketch, and Map Object(s)</li>
 <li>Brainstorm, Sketch, and Map Delivery Medium</li>
-<li>Secondary Research</li></ul></td>
+<li>Secondary Research</li>
+</ul></td>
 <td valign="top">Nov 16<br>Future Dystopia / Utopia Project: 
 <a href="week_11_detail.md"></a>
 <ul>
@@ -189,45 +182,45 @@ Midterm Self-Assessment DUE
 <td valign="top">12</td>   
 <td valign="top">Nov 22<br>Future Dystopia / Utopia Project: 
 <a href="week_12_detail.md"></a>
-<strong>
 <ul>
 <li>Storyboard Draft of Delivery Medium</li>
 <li>Lo-fi Object Prototype Draft</li>
-</ul></strong></td>
+</ul>
+</td>
 <td valign="top">Nov 24<br><i>NO CLASS: Thanksgiving Holiday</i></td>
 </tr>
 <tr>
 <td valign="top">13</td>  
 <td valign="top">Nov 28<br>Future Dystopia / Utopia Project: 
 <a href="week_13_detail.md"></a>
-<strong><ul>
+<ul>
 <li>Iterate Storyboard Draft of Delivery Medium</li>
 <li>Iterate Lo-fi Object Prototype Draft</li>
-</ul></strong></td>
+</ul>
+</td>
 <td valign="top">Nov 30<br>Future Dystopia / Utopia Project: 
 <a href="week_13_detail.md"></a>
-<strong>
 <ul>
 <li>Lo-fi Prototype Delivery Medium</li>
 <li>Hi-fi Prototype Draft</li>
-</ul></strong></td>
+</ul>
+</td>
 </tr>
 <tr>
 <td valign="top">14</td>    
 <td valign="top">Dec 5<br>Future Dystopia / Utopia Project: 
 <a href="week_14_detail.md"></a>
-<strong>
 <ul>
 <li>Iterate Lo-fi Prototype Delivery Medium</li>
 <li>Iterate Hi-fi Prototype Draft</li>
-</ul></strong></td>
+</ul></td>
 <td valign="top">Dec 7<br>Future Dystopia / Utopia Project: 
 <a href="week_14_detail.md"></a>
-<strong>
 <ul>      
 <li>Iterate Lo-fi Prototype Delivery Medium</li>
 <li>Iterate Hi-fi Prototype Draft</li>
-</ul></strong></td>
+</ul>
+</td>
 </tr>
 <tr>
 <td valign="top">15</td>     
