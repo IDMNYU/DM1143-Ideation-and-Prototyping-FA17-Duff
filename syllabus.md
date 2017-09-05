@@ -10,7 +10,7 @@
     
     Prerequisite: None
 
-#### Gitbook Repository: 
+#### Gitbook Repository: https://deangela.gitbooks.io/dm1143-ideation-and-prototyping-fall-2017/content/
 
 #### Course Management Site: http://bxmc.slack.com 
 

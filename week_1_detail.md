@@ -93,6 +93,7 @@ Discuss:
   <ul>
   <li>Get setup with a <a href="process_website.md">process website</a> to post your homework</li>
   <li>Post your wordpress or tumblr URL to the ip_fa17 slack channel</li>
+  <li>Read <a href="http://teaching.polishedsolid.com/ip/mod1/content/index.html" target="_blank">Module 1</a></li>
   </td>
 </table>
 
