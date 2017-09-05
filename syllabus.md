@@ -161,19 +161,19 @@ There will be discrete team and individual exercises and projects that require y
 
 ##### Qualitative Grading Overview
 
-###### A. Excellent (90-100: Work of exceptional quality; Exceeds Expectations)
+##### A. Excellent (90-100: Work of exceptional quality; Exceeds Expectations)
 Performance, participation, and attendance of the student has been of the highest level, showing sustained excellence in meeting course responsibilities. Work clearly differentiates itself from other work, has memorable impact, pursues concepts and techniques above and beyond what is discussed in class. The student thoroughly understands the theory and practice behind ideation &amp; prototyping.
 
-###### B. Very Good / Good (80-89: Work of high quality)
+##### B. Very Good / Good (80-89: Work of high quality)
 Performance, participation, and attendance of the student has been good, though not of the highest level. Work demonstrates a better than average understanding of ideation &amp; prototyping theory & practice.
 
-###### C. Satisfactory (70-79: Average; Satisfies course requirements)
+##### C. Satisfactory (70-79: Average; Satisfies course requirements)
 Performance and attendance of the student has been adequate, satisfactorily meeting the course requirements. Work is average and competent, showing a basic understanding of ideation &amp; prototyping theory & practice.
 
-###### D. Poor; Below Average (60-69: Deficient, but passing)
+##### D. Poor; Below Average (60-69: Deficient, but passing)
 Performance and attendance of the student has been less than adequate. Work is lacking in many or most areas that show any understanding of ideation &amp; prototyping. Problems may include lack of interest, procrastination, poor planning and poor craft.
 
-###### F. Unacceptable (59 & Below: Failing Course Requirements)
+##### F. Unacceptable (59 & Below: Failing Course Requirements)
 Performance and attendance of the student has been such that course requirements have not been met. Work shows no overall understanding of the course material on many levels or either a severe lack of interest. 
 
 ### TECHNOLOGY USE IN THE CLASSROOM
