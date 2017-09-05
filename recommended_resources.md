@@ -5,13 +5,13 @@
 
 **Recommended Audio Podcasts**
 
-*   _Revision Path_ Maurice Cherry interviews designers, developers, and other creators of color weekly.
-*   _StartUp Podcast_StartUp is a podcast series about what it’s really like to get a business off the ground.
+*   [Revision Path](https://itunes.apple.com/us/podcast/revision-path/id834173190?mt=2) Maurice Cherry interviews designers, developers, and other creators of color weekly.
+*   [StartUp Podcast](https://itunes.apple.com/us/podcast/startup-podcast/id913805339?mt=2) StartUp is a podcast series about what it’s really like to get a business off the ground.
     *   In Season 1, Alex Blumberg told the story of launching this business, Gimlet Media, a podcast network.
     *   In Season 2, Lisa Chow joined Alex to follow an entirely new company: a company called Dating Ring, founded by two women in their 20s, outsiders in the male-dominated world of Silicon Valley.
     *   In Season 3, rather than following one company over many episodes, they are telling stories about many companies that all have something in common: their companies are stuck, and they know they need to make a big change.
-*   _The Tim Ferriss Show_ Tim Ferriss deconstructs world-class performers from eclectic areas (investing, sports, business, art, etc.) to extract the tactics, tools, and routines you can use. This includes favorite books, morning routines, exercise habits, time-management tricks, and much more.
-*   _Unmistakeable Creative_Srini Rao interviews instigators, rebels, and people with a pathological inability to accept the status quo.
+*   [The Tim Ferriss Show](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) Tim Ferriss deconstructs world-class performers from eclectic areas (investing, sports, business, art, etc.) to extract the tactics, tools, and routines you can use. This includes favorite books, morning routines, exercise habits, time-management tricks, and much more.
+*   [Unmistakeable Creative](https://itunes.apple.com/us/podcast/unmistakable-creative/id352721366?mt=2) Srini Rao interviews instigators, rebels, and people with a pathological inability to accept the status quo.
 
 **Recommended Books**
 
@@ -62,7 +62,7 @@ _Mapping_
 
 _Prototyping_
 
-*   _[Getting Real](http://gettingreal.37signals.com)_ by 37Signals 
+*   [Getting Real](http://gettingreal.37signals.com) by 37Signals 
 *   _Show Your Work_ by Austin Kleon
 
 **Recommended Writing Resources**
@@ -93,11 +93,12 @@ _Prototyping_
 
 _Mapping_
 
-*   Coggle
-*   FreeMind
-*   Inspiration Software
-*   OmniGraffle
-*   MindMeister
+* [Coggle](https://coggle.it/)
+* [Freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
+* [Inspiration Software](http://www.inspiration.com/Inspiration)
+* [OmniGraffle](https://www.omnigroup.com/omnigraffle)
+* [MindMeister](https://www.mindmeister.com/)
+
 
 
 **Recommended Resources for Creative Process Annotated Bibliograpy and Video Documentary**
