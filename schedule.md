@@ -35,12 +35,12 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
 <td valign="top">3</td>    
-<td valign="top">Sep 19<br><a href="week_3_detail.md"></a><strong></strong></td>
-<td valign="top">Sep 21<br><a href="week_3_detail.md"></a><strong>Narrative Timeline</strong> </td>
+<td valign="top">Sep 19<br><a href="week_3_detail.md"></a></td>
+<td valign="top">Sep 21<br><a href="week_3_detail.md"></a>Object Evolution Timeline</td>
 </tr>
 <tr>
 <td valign="top">4</td>
-<td valign="top">Sep 26<br><a href="week_4_detail.md"></a><strong>Process</strong></strong></td>
+<td valign="top">Sep 26<br><a href="week_4_detail.md"></a>Process</td>
 <td valign="top">Sep 28<br>Creative Process Annotated Bibliography and Video Documentary:
 <a href="week_4_detail.md"></a> 
 <ul>
@@ -136,7 +136,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
 <td valign="top"></td>
-<td valign="top"><strong>Midterm One on Ones</strong><br>
+<td valign="top" colspan="2"><strong>Midterm One on Ones</strong><br>
 Nov 2 (starting @4:30pm), Nov 3 or Nov 6 (before 4:30pm)
 <br><br>
 Midterm Self-Assessment DUE 
@@ -144,7 +144,10 @@ Midterm Self-Assessment DUE
 <li>Schedule your midterm one on one 20min appointment with me here on the above dates only, not before or afterwards: <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a>
 </li>
 </ul></td>
-<td valign="top">Mon Nov 6<br><strong><i>Last Day to Withdraw</i></strong></td>
+</tr>
+<tr>
+<td valign="top"></td>
+<td valign="top" colspan="2">Mon Nov 6<br><strong><i>Last Day to Withdraw</i></strong></td>
 </tr>
 <tr>
 <td valign="top">10</td>     

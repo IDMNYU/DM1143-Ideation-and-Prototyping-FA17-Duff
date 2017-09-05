@@ -13,8 +13,8 @@
 </tr>
 <tr>
   <td valign="top">1</td>
-  <td valign="top" width="48%"><strong>Sep 13</strong></td>
-  <td valign="top" width="48%"><strong>Sep 15</strong></td>
+  <td valign="top" width="48%"><strong>Sep 12</strong></td>
+  <td valign="top" width="48%"><strong>Sep 14</strong></td>
 </tr>
 <tr>
 <td valign="top">class</td>
@@ -30,8 +30,6 @@
 <td valign="top" width="48%">
 Review:
 <ul>
-
-<li>Review Days in the Life of... Media Studies</li>
 <li>Review Interviews in <a href="http://www.designkit.org/resources/1">IDEO’s Human-centered Design Toolkit</a> (available free online)</li>
 <li>Pair students for Classmate Discovery</li>
   <ul>
@@ -66,7 +64,7 @@ Review:
 <td><a href="input_map.md">Your Inputs Map</a></td>
 <td>
 <ul>
-<li>(if applicable this week), your <a href="">constant input assignment</a> on your process website.</li>
+<li>(if applicable this week), your <a href="">constant input / output assignment</a> on your process website.</li>
 </ul></td>
 </tr>
 
