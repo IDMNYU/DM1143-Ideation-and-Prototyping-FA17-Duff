@@ -12,6 +12,7 @@
     * [Personal Inventory](personal_inventory.md)
     * [Inputs Map](input_map.md)
     * [Classmate Discovery](classmate_discovery.md)
+    * [Love Letter or Breakup Letter](letter.md)
     * [Evolution Timeline](evolution_timeline.md)
     * [Self Assessments](self_assessments.md)
 * [Projects](projects.md)
