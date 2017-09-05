@@ -8,7 +8,7 @@
 * [Assignments](assignments.md)
     * [Process Website](process_website.md)
     * [Notebook or Sketchbook](notebook_or_sketchbook.md)
-    * [Constant Input Choices](constant_input_choices.md)
+    * [Constant Input or Output](constant_input_choices.md)
     * [Personal Inventory](personal_inventory.md)
     * [Inputs Map](input_map.md)
     * [Classmate Discovery](classmate_discovery.md)

@@ -1,7 +1,7 @@
 ### DM-UY 1143 Ideation and Prototyping
 ##### Fall 2017 • De Angela L. Duff • Tuesdays and Thursdays • 2:30-4:20pm • 2MTC MAGNET 811
 
-# Constant Input Choices
+# Constant Input or Output. Choose!
 
 Choose either for the entire semester. **Do not do both**:
 
