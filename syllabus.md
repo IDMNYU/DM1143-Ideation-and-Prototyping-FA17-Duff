@@ -211,7 +211,7 @@ _The following list of required readings may be incomplete and is subject to cha
 _The following list of required media may be incomplete and is subject to change. Please see the course website for updates._
 
 * [Everything Is A Remix](http://everythingisaremix.info/watch-the-series)
-* [Ira Glass on storytelling](http://www.youtube.com/watch?v=loxJ3FtCJJA)
+* [Ira Glass on storytelling](https://www.youtube.com/watch?v=5pFI9UuC_fc&list=PLE108783228F1E008)
 * [Metal Gear Solid Documentary: Watch The Making of a Hollywood Game](https://youtu.be/eJVYND_YRx8) 
 * [Metal Gear Solid Documentary: Hideo Kojima's Gene](https://youtu.be/2nM7TLbs6fE)
 
