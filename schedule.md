@@ -1,9 +1,8 @@
 ### DM-UY 1143 Ideation and Prototyping
 ##### Fall 2017 • De Angela L. Duff • Tuesdays and Thursdays • 2:30-4:20pm • 2MTC MAGNET 811
-# DRAFT FORM - NOT FINAL
 # Schedule
 
-_Gitbook is the official source for all dates and assignments; the syllabus is NOT. The syllabus provides a general overview and guideline for the course. The website is a living, dynamic document. Active learning requires flexibility and the investigation of unforeseen paths which may diverge from the specifics outlined below._
+Gitbook is the official source for all dates and assignments; the syllabus is NOT. The syllabus provides a general overview and guideline for the course. The website is a living, dynamic document. Active learning requires flexibility and the investigation of unforeseen paths which may diverge from the specifics outlined below.
 
 **All dates and assignments are subject to change at the discretion of the professor! Gitbook and slack are the official sources for all dates and assignments.**
 
@@ -19,49 +18,57 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
 <td valign="top">1</td>
-<td valign="top">Sep 5<br><a href="week_1_detail.md">
+<td valign="top">Sep 5
+<a href="week_1_detail.md">
 <ul>
 <li>Course and Student Introductions</li>
-<li>Overview of Course</li></a></td>
-<td valign="top">Sep 7<br><a href="week_1_detail.md"><strong>Personal Inventories</strong</li></ul></a></td>
+<li>Overview of Course</li>
+</ul>
+</a></td>
+<td valign="top">Sep 7
+<a href="week_1_detail.md">
+<ul>
+<li>Personal Inventories</li>
+</ul>
+</a></td>
 </tr>
 <tr>
 <td valign="top">2</td> 
-<td valign="top">Sept 12<br><a href="week_2_detail.md"><strong>Input Maps</strong></a></td>
-<td valign="top">Sep 14<br><a href="week_2_detail.md"><strong>Classmate Discovery</strong></a></td>
+<td valign="top">Sept 12
+<a href="week_2_detail.md">
+<ul>
+<li>Input Maps</li>
+</ul></td>
+<td valign="top">Sep 14
+<a href="week_2_detail.md">
+<ul>
+<li>Classmate Discovery</li>
+</ul>
+</a></td>
 </tr>
 <tr>
 <td valign="top"><td valign="top">Mon Sep 18<br><i>Last day to drop Fall 2017 classes and not receive a grade of "W"</i></td><td valign="top"></td>
 </tr>
 <tr>
 <td valign="top">3</td>    
-<td valign="top">Sep 19<br><a href="week_3_detail.md"></a></td>
-<td valign="top">Sep 21<br><a href="week_3_detail.md"></a>Object Evolution Timeline</td>
+<td valign="top">Sep 19<br><a href="week_3_detail.md"></a>Creative Process Annotated Bibliography and Video Documentary:
+<ul>
+<li>Create Individual Annotated Bibliography Draft</li>
+<li>Create Individual Mood Board Draft</li>
+<li>Create Individual Image or Text Storyboard Draft</li>
+</ul></td>
+<td valign="top">Sep 21<br><a href="week_3_detail.md"></a>Creative Process Annotated Bibliography and Video Documentary:
+<ul>
+<li>Create Team Annotated Bibliography Draft</li>
+<li>Create Team Mood Board Draft</li>
+<li>Create Team Image or Text Storyboard Draft</li>      
+</ul></td>
 </tr>
 <tr>
 <td valign="top">4</td>
 <td valign="top">Sep 26<br><a href="week_4_detail.md"></a>Process</td>
 <td valign="top">Sep 28<br>Creative Process Annotated Bibliography and Video Documentary:
 <a href="week_4_detail.md"></a> 
-<ul>
-<li>Create Individual Annotated Bibliography Draft</li>
-<li>Create Individual Mood Board Draft</li>
-<li>Create Individual Image or Text Storyboard Draft</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td valign="top">5</td>
-<td valign="top">Oct 03<br>Creative Process Annotated Bibliography and Video Documentary:
-<a href="week_5_detail.md"></a>
-<ul>
-<li>Create Team Annotated Bibliography Draft</li>
-<li>Create Team Mood Board Draft</li>
-<li>Create Team Image or Text Storyboard Draft</li>      
-</ul>
-</td>
-<td valign="top">Oct 05<br>Creative Process Annotated Bibliography and Video Documentary:
-<a href="week_5_detail.md"></a>
 <ul>
 <li>(if applicable) Iterate Team Annotated Bibliography Draft</li>
 <li>(if applicable) Iterate Mood Board Draft</li>
@@ -71,16 +78,16 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </td>
 </tr>
 <tr>
-<td valign="top">6</td>    
-<td valign="top">Oct 10<br>Creative Process Annotated Bibliography and Video Documentary:
-<a href="week_6_detail.md"></a>
+<td valign="top">5</td>
+<td valign="top">Oct 03<br>Creative Process Annotated Bibliography and Video Documentary:
+<a href="week_5_detail.md"></a>
 <ul>
 <li>(if applicable) Create or Iterate Iterate Animatic draft</li>
 <li>(if applicable) Create Hybrid Animatic / Video Draft</li>
 </ul>
 </td>
-<td valign="top">Oct 12<br>Creative Process Annotated Bibliography and Video Documentary:
-<a href="week_6_detail.md"></a>
+<td valign="top">Oct 05<br>Creative Process Annotated Bibliography and Video Documentary:
+<a href="week_5_detail.md"></a>
 <ul>
 <li>(if applicable) Create or Iterate Hybrid Animatic / Video Draft or</li>
 <li>(if applicable) Create Video Draft</li>
@@ -88,17 +95,30 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </td>
 </tr>
 <tr>
-<td valign="top">7</td>     
-<td valign="top">Oct 17<br>Creative Process Annotated Bibliography and Video Documentary: 
-<a href="week_7_detail.md"></a>
+<td valign="top">6</td>    
+<td valign="top">Oct 10<br>Creative Process Annotated Bibliography and Video Documentary:
+<a href="week_6_detail.md"></a>
 <ul>
 <li>Iterate Hybrid Animatic / Video Draft</li>
 </ul>
 </td>
+<td valign="top">Oct 12<br>Creative Process Annotated Bibliography and Video Documentary:
+<a href="week_6_detail.md"></a>
+<ul>
+<li>Iterate Hybrid Animatic / Video Draft</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td valign="top">7</td>     
+<td valign="top">Oct 17<br>Creative Process Annotated Bibliography and Video Documentary: 
+<a href="week_7_detail.md"></a>
+
+</td>
 <td valign="top">Oct 19<br>Creative Process Annotated Bibliography and Video Documentary:
 <a href="week_7_detail.md"></a>
 <ul>
-<li>Iterate Hybrid Animatic / Video Draft</li>
+<li>Create Video Draft</li>
 </ul>
 </td>
 </tr>
@@ -107,14 +127,12 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <td valign="top">Oct 24<br>Creative Process Annotated Bibliography and Video Documentary: 
 <a href="week_8_detail.md"></a>
 <ul>
-<li>Create Video Draft</li>
+<li>Iterate Video Draft</li>
 </ul>
 </td>
 <td valign="top">Oct 26<br>Creative Process Annotated Bibliography and Video Documentary: 
 <a href="week_8_detail.md"></a>
-<ul>
-<li>Iterate Video Draft</li>
-</ul>
+
 </td>
 </tr> 
 <tr>
@@ -169,6 +187,7 @@ Midterm Self-Assessment DUE
 <td valign="top">Nov 14<br>Future Dystopia / Utopia Project: 
 <a href="week_11_detail.md"></a>
 <ul>
+<li>Object Evolution Timeline</li>
 <li>Brainstorm, Sketch, and Map Object(s)</li>
 <li>Brainstorm, Sketch, and Map Delivery Medium</li>
 <li>Secondary Research</li>
