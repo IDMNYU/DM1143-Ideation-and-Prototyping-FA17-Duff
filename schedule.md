@@ -24,24 +24,24 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <ul>
 <li>Course and Student Introductions</li>
 <li>Overview of Course</li></a></td>
-<td valign="top">Sep 7<br><a href="week_1_detail.md">Phase 1: Discovery / Inspiration / Process: <strong>Personal Inventories</strong</li></ul></a></td>
+<td valign="top">Sep 7<br><a href="week_1_detail.md"><strong>Personal Inventories</strong</li></ul></a></td>
 </tr>
 <tr>
 <td>2</td> 
-<td valign="top">Sept 12<br><a href="week_2_detail.md">Phase 1: Discovery / Inspiration / Process: <strong>Input Maps</strong></a></td>
-<td valign="top">Sep 14<br><a href="week_2_detail.md">Phase 2: Research / Ideation / Brainstorming: <strong>Media Studies</strong></a></td>
+<td valign="top">Sept 12<br><a href="week_2_detail.md"><strong>Input Maps</strong></a></td>
+<td valign="top">Sep 14<br><a href="week_2_detail.md"><strong>Media Studies</strong></a></td>
 </tr>
 <tr>
 <td><td>Mon Sep 18<br><i>Last day to drop Fall 2017 classes and not receive a grade of "W"</i></td><td></td>
 </tr>
 <tr>
 <td>3</td>    
-<td>Sep 19<br><a href="week_3_detail.md">Phase 3: Design / Sketching / Mapping: <strong>Classmate Discovery</strong></a></td>
-<td valign="top">Sep 21<br><a href="week_3_detail.md">Phase 1: Discovery / Inspiration / <strong>Narrative Timeline</strong> </a></td>
+<td>Sep 19<br><a href="week_3_detail.md"><strong>Classmate Discovery</strong></a></td>
+<td valign="top">Sep 21<br><a href="week_3_detail.md"><strong>Narrative Timeline</strong> </a></td>
 </tr>
 <tr>
 <td>4</td>
-<td valign="top">Sep 26<br><a href="week_4_detail.md">Phase 1: Discovery / Inspiration / <strong>Process</strong></strong></a></td>
+<td valign="top">Sep 26<br><a href="week_4_detail.md"><strong>Process</strong></strong></a></td>
 <td>Sep 28<br>Creative Process Annotated Bibliography and Video Documentary:
 <a href="week_4_detail.md"> 
 <strong>
@@ -117,8 +117,8 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <li>Create Video Draft</li>
 </ul>
 </strong></a></td>
-<td valign="top">Creative Process Annotated Bibliography and Video Documentary: 
-<a href="week_8_detail.md">Oct 26<br>
+<td valign="top">Oct 26<br>Creative Process Annotated Bibliography and Video Documentary: 
+<a href="week_8_detail.md">
 <strong>
 <ul>
 <li>Iterate Video Draft</li>
@@ -134,7 +134,8 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <li>Creative Process Video Documentary DUE</li>
 <li>Final Annotated Bibliography DUE</li>
 </ul></as></td>
-<td>Nov 2<br><a href="week_9_detail.md">Future Dystopia / Utopia Project: 
+<td>Nov 2<br>Future Dystopia / Utopia Project: 
+<a href="week_9_detail.md">
 <strong>
 <ul>
 <li>Brainstorm Themes &amp; Ideas</li> 
@@ -162,7 +163,7 @@ Midterm Self-Assessment DUE
 <li>Ideate Framing Story</li>
 <li>Ideate Message</li>    
 </ul></strong></a></td>
-<td>Nov 9<br><a href="week_10_detail.md">Future Dystopia / Utopia Project: <strong>
+<td>Nov 9<br>Future Dystopia / Utopia Project: <a href="week_10_detail.md"><strong>
 <ul>
 <li>Iterate Framing Story</li>
 <li>Iterate Message</li>  

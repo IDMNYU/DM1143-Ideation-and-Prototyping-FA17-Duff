@@ -5,7 +5,7 @@
 
     De Angela L. Duff • deangela.duff@nyu.edu • Fall 2017 
     Tuesdays & Thursday • 2:30PM-4:20PM • 2MTC MAGNET 811 • 3 credit hrs
-    Office hours by appointment or directly after class 
+    Office hours by appointment at http://calendly.com/deangela or directly after class 
     Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718 
     
     Prerequisite: None
@@ -145,13 +145,12 @@ Your final grade will be based on a synthesis of quantitative &amp; qualitative 
 
 *   5% [Self Assessments](self_assessments.md) (2.5% each)
 *   5% [Input Map](input_map.md)
-*   5% [Narrative Timeline of Influences](narrative_timeline.md)
-*   5% [Museum or gallery visit, talk, or meetup](visit_talk_meetup.md)
+*   5% [Object Evolution Timeline](evolution_timeline.md)
 *   10% [Notebook or Sketchbook](notebook_or_sketchbook.md)
 *   12% [Constant Input Choices](constant_input_choices.md)
 *   14% [Process Website](process_website.md)
-*   16% [Future Dystopia / Utopia Project](future.md)
-*   28% [Creative Process Annotated Bibliography & Video Documentary](creative_process.md)
+*   20% [Future Dystopia / Utopia Project](future.md)
+*   29% [Creative Process Annotated Bibliography & Video Documentary](creative_process.md)
 
 ##### Qualitative Grading Overview
 
@@ -160,7 +159,7 @@ Your final grade will be based on a synthesis of quantitative &amp; qualitative 
 *   **B+ Very Good** 
 *   **B Good** (Solid work, though not of the highest level)
 *   **B-**
-*   **C+ ** (A little above average)
+*   **C+** (A little above average)
 *   **C Satisfactory** (Average; Satisfies course requirements)
 *   **C- Below average** (but passing)	 
 *   **D+ Poor Work** (but passing)	 
@@ -214,7 +213,7 @@ See Appendix
 
 ### PROJECTS & ASSIGNMENTS
 
-All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname_i&d_fa17_assignmentname (i.e. dduff_i&d_fa17_assignmentname.pdf)
+All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname_i&p_fa17_assignmentname (i.e. dduff_i&p_fa17_assignmentname.pdf)
 
 
 #### Projects
@@ -223,12 +222,12 @@ All due dates can be found in the calendar. This is just an overview and descrip
 
 #### Assignments
 * [Constant Input Choices](constant_input_choices.md)
+* [Personal Inventory](personal_inventory.md)
 * [Input Map](input_map.md)
 * [Process Website](process_website.md)
-* [Iteration Timeline](iteration_timeline.md)
+* [Object Evolution Timeline](evolution_timeline.md)
 * [Notebook or Sketchbook](notebook_or_sketchbook.md)
 * [Self Assessments](self_assessments.md) 
-* [Museum or gallery visit, talk, or meetup](visit_talk_meetup.md)
 
 ### [SCHEDULE OVERVIEW GRID](schedule.md)
 See Appendix

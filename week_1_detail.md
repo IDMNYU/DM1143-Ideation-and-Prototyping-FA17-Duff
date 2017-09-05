@@ -13,8 +13,8 @@
 </tr>
 <tr>
   <td valign="top">1</td>
-  <td valign="top" width="48%"><strong>Sep 6</strong></td>
-  <td valign="top" width="48%"><strong>Sep 8</strong></td>
+  <td valign="top" width="48%"><strong>Sep 5</strong></td>
+  <td valign="top" width="48%"><strong>Sep 7</strong></td>
 </tr>
 <tr>
 <td valign="top">class</td>
@@ -34,11 +34,10 @@
 Discuss:
 <ul>
 <li>Assignment: Constant Input Choices</li>
-<li>Assignment: Visit Talk or Meetup</li>
 <li>Assignment: Process Website</li>
+<li>Assignment: Personal Inventories</li>
 <li>(if time) Assignment: Notebook or Sketchbook
 <li>(if time) Midterm and Final Project
-<li>Personal Inventories</li>
 </ul>
 </td>
 
@@ -71,7 +70,7 @@ Discuss:
 
 <!-- film -->
 <tr>
-<td>film and post by Wednesday at 8pm</td>
+<td>film and post by or BEFORE noon at Thursday</td>
 <td></td>
 <td><a href="personal_inventory.md">Your Personal Inventory</a></td>
 </tr>
@@ -93,7 +92,7 @@ Discuss:
   <td valign="top">
   <ul>
   <li>Get setup with a <a href="process_website.md">process website</a> to post your homework</li>
-  <li>Post your wordpress or tumblr URL to the ip_fa16 slack channel</li>
+  <li>Post your wordpress or tumblr URL to the ip_fa17 slack channel</li>
   </td>
 </table>
 
