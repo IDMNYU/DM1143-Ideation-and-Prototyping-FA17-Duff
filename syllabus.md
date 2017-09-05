@@ -3,11 +3,10 @@
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
     De Angela L. Duff • deangela.duff@nyu.edu • Fall 2017 
-    Tuesdays & Thursday • 2:30PM-4:20PM • 2MTC MAGNET 811 • 3 credit hrs        
+    Tuesdays & Thursday • 2:30PM-4:20PM • 2MTC MAGNET 811 • 3 credit hrs
+    Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718        
 
 #### Office hours by appointment at http://calendly.com/deangela or directly after class 
-
-    Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718 
 
 #### Gitbook Repository: https://deangela.gitbooks.io/dm1143-ideation-and-prototyping-fall-2017/content/
 
