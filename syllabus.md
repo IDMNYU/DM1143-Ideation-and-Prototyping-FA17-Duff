@@ -14,13 +14,7 @@
 #### Course Management Site: http://bxmc.slack.com 
 
 ---
-_&quot;I am enough of an artist to draw freely upon my imagination._
-
-_Imagination is more important than knowledge._
-
-_Knowledge is limited._
-
-_Imagination encircles the world.&quot;_
+_&quot;“I have no special talents. I am only passionately curious.”&quot;_
 
 _~Albert Einstein_
 
