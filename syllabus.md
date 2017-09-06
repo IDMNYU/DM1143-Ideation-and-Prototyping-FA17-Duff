@@ -59,6 +59,11 @@ The course will be comprised of lectures, critiques, discussions, readings, scre
 
 Critiques are the best way to articulate your ideas to others and get immediate feedback. The class analyzes and suggests ways to increase the impact of your project. Take notes when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your critique notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand what you are doing to make your project better. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
 
+Rules of the Critique:
+* Be Present and Engaged
+* Give Feedback to your classmates
+* Do NOT take feedback personally.
+
 There will be discrete team and individual exercises and projects that require you to apply the tools, techniques, and methods presented in the lectures, discussions, readings, and other material. These fundamentals are organized according to five phases:
 
 **Phase 1: Discovery / Inspiration**
@@ -103,7 +108,7 @@ There will be discrete team and individual exercises and projects that require y
 *   Framing and positioning
 *   Storytelling, engaging, communicating, selling
 
-
+Students will conduct self assessments as well as be evaluated by the professor during or after midterm and at the end of the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something. 
 
 ### STUDENT RESPONSIBILITIES
 
