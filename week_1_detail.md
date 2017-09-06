@@ -42,16 +42,23 @@ Discuss:
 
 <!-- 2nd column class -->
 <td valign="top" width="48%">
+Watch:
+<ul>
+  <li>Watch <a target="_blank" href="https://www.youtube.com/watch?v=lRtV-ugIT0k">Finished Not Perfect</a> by Jake Parker</li>
+</ul>
+
 Review:
 <ul>
-<li>Personal Inventories</li>
-<li>Assignment: Notebook or Sketchbook</li>
-<li>Midterm and Final Project</li>
+  <li>Personal Inventories</li>
 </ul>
+
 Discuss:
-  <ul>
+<ul>
+  <li>Planners &amp; Journals</li>
+  <li>Assignment: Notebook or Sketchbook</li>
   <li>Assignment: Inputs Map</li>
-  </ul>
+  <li>(if time) Midterm and Final Project</li>
+</ul>
 </td>
  
 </tr>
