@@ -1,4 +1,4 @@
-# DM-UY 1143 Ideation and Prototyping
+# DM-UY 1143 B Ideation and Prototyping
 ![NYU](http://engineering.nyu.edu/files/tandon_long_black.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
