@@ -54,6 +54,11 @@ Review:
 
 Discuss:
 <ul>
+  <li>Constant Output Examples from Spring</li>
+  <ul>
+  <li><a href="https://paytonmeyer-process.tumblr.com/" target="_blank">Payton</a></li>
+  <li><a href="https://jinghuangideation.tumblr.com/tagged/Discovery-log" target="_blank">Jing</a></li>
+  </ul>
   <li>Planners &amp; Journals</li>
   <li>Assignment: Notebook or Sketchbook</li>
   <li>Assignment: Inputs Map</li>
