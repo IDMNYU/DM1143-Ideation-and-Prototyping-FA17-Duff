@@ -23,7 +23,7 @@ If you choose this option, your task will be to **keep a Discovery Log on your p
 
 What’s new and different in your life in the following categories? Why does it appeal to you or not? Be sure to document inputs from many categories, including (but not limited to):
 
-*   _Entertainment_ (Movies, Sports, Theater, Music, Museums, Zoos, Theme Parts, etc.)
+*   _Entertainment_ (Movies, Sports, Theater, Music, Museums, Zoos, Theme Parks, etc.)
 *   _Media_ (Newspapers, Magazines, Books, TV, Radio, Internet, etc.)
 *   _Food_ (Restaurants, Snacks, Home-Cooked Meals, Etc.)
 *   _Hobbies_ (Skateboarding, Knitting, etc.)
