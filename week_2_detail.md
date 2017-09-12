@@ -70,6 +70,9 @@
 </ul>
 </td>
 <td>
+<ul>
+<li>(OPTIONAL) Iterate <a href="input_map.md">Your Inputs Map</a></li>
+</ul>
 </td>
 </tr>
 
