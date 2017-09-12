@@ -54,7 +54,7 @@
 </td>
 <td>
   <ul>
-<li>"Interviews" in <a href="http://www.designkit.org/resources/1">IDEO’s Human-centered Design Toolkit</a> (available free online)</li>
+<li>"Interview" pg. 39 in <a href="http://www.designkit.org/resources/1">IDEO’s Human-centered Design Toolkit</a> (available free online and pinned on slack)</li>
 </ul>
 </td> 
 </tr>
