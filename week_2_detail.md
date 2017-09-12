@@ -52,7 +52,11 @@
 <li>Brown, Sunni. “<a href="http://www.alistapart.com/articles/the-miseducation-of-the-doodle/" target="_blank">The Miseducation of the Doodle.</a>” A List Apart. January 25, 2011. </li>
 </ul>
 </td>
-<td></td> 
+<td>
+  <ul>
+<li>"Interviews" in <a href="http://www.designkit.org/resources/1">IDEO’s Human-centered Design Toolkit</a> (available free online)</li>
+</ul>
+</td> 
 </tr>
 
 
