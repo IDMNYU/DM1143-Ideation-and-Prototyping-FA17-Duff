@@ -29,7 +29,6 @@
 <td valign="top" width="48%">
 <ul>
 <li>Discuss Remix Artists Research</li>
-<li>Review Narrative Timelines</li>
 <li>Brainstorm Creators in order to select teams.</li>
   <li>
   <a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a> Team Working Session</li>
@@ -46,10 +45,10 @@
 <!-- watch -->
 <tr>
   <td valign="top">watch</td>
-  <td>Choose One:
+  <td>
   <ul>
   <li><a href="http://everythingisaremix.info/watch-the-series" target="_blank">Eveything Is A Remix Series</a> or</li>  
-  <li>Exit Through The Gift Shop (on Netflix or Youtube)</li>
+  <li>(OPTIONAL) Exit Through The Gift Shop (on Netflix or Youtube)</li>
   </ul></td>
   <td></td> 
 </tr>
@@ -57,11 +56,11 @@
 <!-- write -->
 <tr>
 <td>write (on your process website)</td>
-<td>Write your response to one of the following:
+<td>Write your response:
 
 <ul>
   <li><a href="http://everythingisaremix.info/watch-the-series" target="_blank">Eveything Is A Remix Series</a> or</li>  
-  <li>Exit Through The Gift Shop (on Netflix or Youtube)</li>
+  <li>(OPTIONAL) Exit Through The Gift Shop (on Netflix or Youtube)</li>
   </ul>
 Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or
 insights that occurred while watching, how it reflects your own process (or does not and why) or how it willinform or change your own process (or will not and why)</td>
@@ -85,7 +84,6 @@ insights that occurred while watching, how it reflects your own process (or does
   <td><a href="classmate_discovery.md">Classmate Discovery</a></td>
   <td valign="top">
   <ul>
-  <li><a href="narrative_timeline.md">Narrative Timeline</a></li>
   <li>(if applicable this week), your <a href="constant_input_choices.md">constant input assignment</a> on your process website.
   </li>
   </ul></td>
