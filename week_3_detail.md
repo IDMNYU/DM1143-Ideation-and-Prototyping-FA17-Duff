@@ -81,11 +81,13 @@ insights that occurred while watching, how it reflects your own process (or does
 <!-- create -->
 <tr>
   <td valign="top">create</td>
-  <td><a href="classmate_discovery.md">Classmate Discovery</a></td>
-  <td valign="top">
+  <td>
   <ul>
+  <li><a href="classmate_discovery.md">Classmate Discovery</a></li>
   <li>(if applicable this week), your <a href="constant_input_choices.md">constant input assignment</a> on your process website.
   </li>
   </ul></td>
+  <td valign="top">
+  </td>
 </table>
 
