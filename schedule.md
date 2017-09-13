@@ -52,17 +52,22 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
 <td valign="top">3</td>    
-<td valign="top">Sep 19<br><a href="week_3_detail.md"></a>
+<td valign="top">Sep 19
+<a href="week_3_detail.md">
 <ul>
 <li>Everything is a Remix</li>
 <li>Classmate Discovery</li>
 <li>(if applicable) constant input or output</li>
 </ul>
+</a>
 </td>
 <td valign="top">Sep 21<br><a href="week_3_detail.md"></a>
+<a href="week_3_detail.md">
 <ul>
-<li>Process</li>
+<li>Remix Artists</li>
+<li>Brainstorm Creators &amp; Select Midterm Teams.</li>
 </ul>
+</a>
 </tr>
 <tr>
 <td valign="top">4</td>
