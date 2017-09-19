@@ -23,6 +23,7 @@
 <Li>Group Review: Frogs, Time Mgt -> GTD</Li>
 <li>Group Review: Discovery Log (Input) / Passion Project (Output)</li>
 <li>Group Review: Classmate Discoveries</li>
+<li>Discuss Classmate Discoveries</li>
 <li>Discovery Log: Maya (Walking)</li>
 <li>Discuss Everything is a Remix</li>
 <li>Discuss <a href="https://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER Technique</a> by Michael Michalko</li>
