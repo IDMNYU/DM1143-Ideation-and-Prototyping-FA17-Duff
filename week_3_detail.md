@@ -52,7 +52,7 @@
   <td valign="top">watch</td>
   <td>
   <ul>
-  <li><a href="http://everythingisaremix.info/watch-the-series" target="_blank">Eveything Is A Remix Series</a> or</li>  
+  <li><a href="http://everythingisaremix.info/watch-the-series" target="_blank">Eveything Is A Remix Series</a></li>  
   <li>(OPTIONAL) Exit Through The Gift Shop (on Netflix or Youtube)</li>
   </ul></td>
   <td></td> 
@@ -64,7 +64,7 @@
 <td>Write your response:
 
 <ul>
-  <li><a href="http://everythingisaremix.info/watch-the-series" target="_blank">Eveything Is A Remix Series</a> or</li>  
+  <li><a href="http://everythingisaremix.info/watch-the-series" target="_blank">Eveything Is A Remix Series</a></li>  
   <li>(OPTIONAL) Exit Through The Gift Shop (on Netflix or Youtube)</li>
   </ul>
 Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or
