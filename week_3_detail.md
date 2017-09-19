@@ -20,7 +20,10 @@
 <td valign="top">class</td>
 <td valign="top">
 <ul>
-<li>Review Classmate Discoveries</li>
+<Li>Group Review: Frogs, Time Mgt -> GTD</Li>
+<li>Group Review: Discovery Log (Input) / Passion Project (Output)</li>
+<li>Group Review: Classmate Discoveries</li>
+<li>Discovery Log: Maya (Walking)</li>
 <li>Discuss Everything is a Remix</li>
 <li>Discuss <a href="https://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER Technique</a> by Michael Michalko</li>
 
@@ -29,10 +32,11 @@
 <!-- 2nd column class -->
 <td valign="top" width="48%">
 <ul>
+<li>Group Review: Remix Artist Research</li>
 <li>Discuss Remix Artists Research</li>
-<li>Brainstorm Creators in order to select teams.</li>
-  <li>
-  <a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a> Team Working Session</li>
+<li>In-class exercise: Brainstorm Creators in order to select teams.</li>
+  <li>In-class team work session:
+  <a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a></li>
   <ul>
   <li>Exchange contact info (phone, email, address)</li>
   <li>Exchange schedules</li>
