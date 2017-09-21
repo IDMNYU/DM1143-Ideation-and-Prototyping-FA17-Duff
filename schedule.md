@@ -65,7 +65,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <a href="week_3_detail.md">
 <ul>
 <li>Remix Artists</li>
-<li>Brainstorm Creators &amp; Select Midterm Teams.</li>
+<li>Brainstorm Creators</li>
 </ul>
 </a>
 </tr>
@@ -73,18 +73,19 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <td valign="top">4</td>
 <td valign="top">Sep 26<br><a href="week_4_detail.md">Creative Process Annotated Bibliography and Video Documentary:
 <ul>
-<li>Create Individual Annotated Bibliography Draft</li>
-<li>Create Individual Mood Board Draft</li>
-<li>Create Individual Image or Text Storyboard Draft</li>
-<li>(if applicable) constant input or output</li>
+<li>Discuss Creative Process</li>
+<li>Select Creator and Form Midterm Teams</li>
 </ul></a>
 </td>
 <td valign="top">Sep 28<br>Creative Process Annotated Bibliography and Video Documentary:
 <a href="week_4_detail.md">
 <ul>
-<li>Create Team Annotated Bibliography Draft</li>
-<li>Create Team Mood Board Draft</li>
-<li>Create Team Image or Text Storyboard Draft</li>      
+<li>Create Individual Annotated Bibliography Draft</li>
+<li>Create Individual Mood Board Draft</li>
+<li>Create Individual Image or Text Storyboard Draft</li>
+<li>(if applicable) constant input or output</li>
+
+   
 </ul></a> 
 </td>
 </tr>
@@ -93,18 +94,20 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <td valign="top">Oct 03<br>Creative Process Annotated Bibliography and Video Documentary:
 <a href="week_5_detail.md"></a>
 <ul>
-<li>(if applicable) Iterate Team Annotated Bibliography Draft</li>
-<li>(if applicable) Iterate Mood Board Draft</li>
-<li>(if applicable) Iterate Team Image or Text Storyboard Draft</li>
-<li>(if applicable) Create Animatic Draft</li>
-<li>(if applicable) constant input or output</li>
+<li>Create Team Annotated Bibliography Draft</li>
+<li>Create Team Mood Board Draft</li>
+<li>Create Team Image or Text Storyboard Draft</li>   
+
 </ul>
 </td>
 <td valign="top">Oct 05<br>Creative Process Annotated Bibliography and Video Documentary:
 <a href="week_5_detail.md"></a>
 <ul>
-<li>(if applicable) Create or Iterate Iterate Animatic draft</li>
-<li>(if applicable) Create Hybrid Animatic / Video Draft</li>
+<li>(if applicable) Iterate Team Annotated Bibliography Draft</li>
+<li>(if applicable) Iterate Mood Board Draft</li>
+<li>(if applicable) Iterate Team Image or Text Storyboard Draft</li>
+<li>(if applicable) Create Animatic Draft</li>
+<li>(if applicable) constant input or output</li>
 </ul>
 </td>
 </tr>
