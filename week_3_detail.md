@@ -33,6 +33,7 @@
 <!-- 2nd column class -->
 <td valign="top" width="48%">
 <ul>
+<li>Any newbies to grammarly</li>
 <li>Group Review: Remix Artist Research</li>
 <li>Discuss Remix Artists Research</li>
 <li>In-class exercise: Brainstorm Creators in order to select teams.</li>
@@ -53,6 +54,7 @@
   <td valign="top">watch</td>
   <td>
   <ul>
+  <li><a href="http://teaching.polishedsolid.com/ip/mod3/content/index.html" target="_blank">Module 3</a></li>
   <li><a href="http://everythingisaremix.info/watch-the-series" target="_blank">Eveything Is A Remix Series</a></li>  
   <li>(OPTIONAL) Exit Through The Gift Shop (on Netflix or Youtube)</li>
   </ul></td>
