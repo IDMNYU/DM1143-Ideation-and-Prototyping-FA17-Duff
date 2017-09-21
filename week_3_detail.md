@@ -26,7 +26,6 @@
 <li>Discuss Classmate Discoveries</li>
 <li>Discovery Log: Maya (Walking)</li>
 <li>Discuss Everything is a Remix</li>
-<li>Discuss <a href="https://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER Technique</a> by Michael Michalko</li>
 
 </ul></td>
 
@@ -34,6 +33,7 @@
 <td valign="top" width="48%">
 <ul>
 <li>Any newbies to grammarly</li>
+<li>Discuss <a href="https://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER Technique</a> by Michael Michalko</li>
 <li>Group Review: Remix Artist Research</li>
 <li>Discuss Remix Artists Research</li>
 <li>In-class exercise: Brainstorm Creators in order to select teams.</li>
