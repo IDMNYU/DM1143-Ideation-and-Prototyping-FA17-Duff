@@ -21,6 +21,7 @@
 <td valign="top">
   <ul>
   <li>Discuss Metal Gear Solid Documentaries and Application of Ideation &amp; Prototyping in Other Classes</li>
+  <li><a href="http://teaching.polishedsolid.com/ip/mod4/content/index.html" target="_blank">Module 4</a></li>
   <li>Discuss Text vs. Image Storyboard</li>
   <li>Finalize Teams for <a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a>
 </td>
@@ -48,6 +49,7 @@
 
 <li><a href="https://www.youtube.com/watch?v=eJVYND_YRx8" target="_blank">Metal Gear Solid 2 Documentary</a></li>
 <li><a href="https://www.youtube.com/watch?v=2nM7TLbs6fE" target="_blank">Metal Gear Solid 4 Documentary</a> (make sure to turn on closed captioning)</li>
+<li><a href="http://teaching.polishedsolid.com/ip/mod3/content/index.html" target="_blank">Module 3</a></li>
 </ul></td>
   <td><ul>
   <li><a href="http://teaching.polishedsolid.com/ip/mod4/content/index.html" target="_blank">Module 4</a></li></ul></td> 
