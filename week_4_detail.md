@@ -21,9 +21,16 @@
 <td valign="top">
   <ul>
   <li>Discuss Metal Gear Solid Documentaries and Application of Ideation &amp; Prototyping in Other Classes</li>
-  <li><a href="http://teaching.polishedsolid.com/ip/mod4/content/index.html" target="_blank">Module 4</a></li>
-  <li>Discuss Text vs. Image Storyboard</li>
-  <li>Finalize Teams for <a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a>
+  <li>Discuss <a href="http://teaching.polishedsolid.com/ip/mod4/content/index.html" target="_blank">Module 4</a></li>
+  <ul><li>Discuss Text vs. Image Storyboard</li></ul>
+  <li>In-class team work session:
+  <a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a></li>
+  <ul>
+  <li>Finalize Teams</li>
+  <li>Exchange contact info (phone, email, address)</li>
+  <li>Exchange schedules</li>
+  <li>Discuss Collaborative Tools (Slack, Google Docs, Kanbanery/Trello, etc.)</li>
+  </ul> 
 </td>
 
 <!-- 2nd column class -->
