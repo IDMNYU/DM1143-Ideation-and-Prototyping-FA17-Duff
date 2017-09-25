@@ -12,7 +12,7 @@
 <td>Thursdays (due on date listed)</td>
 </tr>
 <tr>
-  <td valign="top">1</td>
+  <td valign="top">2</td>
   <td valign="top" width="48%"><strong>Sep 12</strong></td>
   <td valign="top" width="48%"><strong>Sep 14</strong></td>
 </tr>
@@ -28,7 +28,7 @@
 </td>
 <td valign="top" width="48%">
 <ul>
-<li>Review Interviews in <a href="http://www.designkit.org/resources/1">IDEO’s Human-centered Design Toolkit</a> (available free online)</li>
+<li>Review "Interviews" in <a href="http://www.designkit.org/resources/1">IDEO’s Human-centered Design Toolkit</a> (available free online)</li>
 <li>Pair students for Classmate Discovery</li>
   <ul>
   <li>Interview, Survey, and/or Questionnaire two of your classmates to discover background, training, discipline, personal circumstances that led them to where they are today, and where they are going.</li>
@@ -52,7 +52,11 @@
 <li>Brown, Sunni. “<a href="http://www.alistapart.com/articles/the-miseducation-of-the-doodle/" target="_blank">The Miseducation of the Doodle.</a>” A List Apart. January 25, 2011. </li>
 </ul>
 </td>
-<td></td> 
+<td>
+  <ul>
+<li>"Interview" pg. 39 in <a href="http://www.designkit.org/resources/1">IDEO’s Human-centered Design Toolkit</a> (available free online and pinned on slack)</li>
+</ul>
+</td> 
 </tr>
 
 
@@ -66,13 +70,16 @@
 </ul>
 </td>
 <td>
+<ul>
+<li>(OPTIONAL) Iterate <a href="input_map.md">Your Inputs Map</a></li>
+</ul>
 </td>
 </tr>
 
 <!-- write -->
 <tr>
 <td>Write and post on process website</td>
-<td>After reading both articles... Between the two articles, Sketching: the Visual Thinking Power Tool and The Miseducation of the Doodle, write a reading response to the article that resonated with you the most. Do not write a summary. In other words, do not regurgitate the article. Discuss any epiphanies or insights that occurred while reading, how it reflects your own creative process (or does not and why) or how it will inform or change your own process (or will not and why).</td>
+<td>After reading both articles, choose one of the articles, Sketching: the Visual Thinking Power Tool OR The Miseducation of the Doodle, to write a reading response to the one that resonated with you the most. Do not write a summary. In other words, do not regurgitate the article. Discuss any epiphanies or insights that occurred while reading, how it reflects your own creative process (or does not and why) or how it will inform or change your own process (or will not and why).</td>
 <td></td>
 </tr>
 </table>
