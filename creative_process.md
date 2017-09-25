@@ -60,7 +60,7 @@ You can access NYU Tandon’s Bern Dibner Library here: [http://library.poly.edu
 
 ### Creative Process Video Documentary
 
-Create a video documenting the creative process of the subject of your research paper. This is not a “documentary” in the traditional sense, this is a video that both documents your chosen creator’s process, and is also an experimental video work in and of itself. This is not about telling the story of how they came to be an artist, designer, or creative technologist; this is about your team telling the story of their process, without a linear narrative.
+Create a video documenting the creative process of your chosen creator. This is not a “documentary” in the traditional sense, this is a video that both documents your chosen creator’s process, and is also an experimental video work in and of itself. This is not about telling the story of how they came to be an artist, designer, or creative technologist; this is about your team telling the story of their process, without a linear narrative.
 
 Your team’s video documentary must be 1 to 3 minutes long and be executed with the utmost care and craftsmanship. Carefully consider such filmic aspects as editing, montage, visual rhythm, supplemental graphics and titles, audio score, storytelling, tone, and point of view
 
