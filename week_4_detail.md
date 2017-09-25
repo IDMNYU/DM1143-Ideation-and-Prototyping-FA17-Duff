@@ -79,7 +79,7 @@
 <!-- do -->
 <tr>
   <td valign="top">create and document (post on your process website)</td>
-  <td>Provide documentation of how you have used some of the tools, techniques, and thinking discussed in this class in your other course assignments.</td>
+  <td>Provide documentation of how you have used some of the tools, techniques, and thinking discussed in this class in your other course assignments, work projects, or passion projects (OUTSIDE of Ideation &amp; Prototyping).</td>
   <td valign="top">
   <ul>
    <li>Begin discovery / research for your <a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a></li>
