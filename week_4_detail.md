@@ -21,7 +21,7 @@
 <td valign="top">
   <ul>
   <li>Discuss graphic novel, <a href="https://law.duke.edu/musiccomic/download/" target="_blank">Theft! A History of Music</a></li>
-  <li>Discuss <a href="http://blog.visualmotive.com/wp-content/uploads/2009/12/mccloud_understanding_comics.jpg" target="_blank">process</a> &amp; <a href="http://blog.visualmotive.com/wp-content/uploads/2009/12/mccloud_understanding_comics.jpg" target="_blank">process hierarchy</a> from Understanding Comics</a></li>
+  <li>Discuss <a href="http://blog.visualmotive.com/wp-content/uploads/2009/12/mccloud_understanding_comics.jpg" target="_blank">process</a> &amp; <a href="http://i46.tinypic.com/2nrn6t0.png" target="_blank">process hierarchy</a> from Understanding Comics</a></li>
   <li>Discuss Application of Ideation &amp; Prototyping in Other Classes</li>
   <li>Discuss Metal Gear Solid Documentaries</li>
   <li>Discuss <a href="http://teaching.polishedsolid.com/ip/mod4/content/index.html" target="_blank">Module 4</a></li>
