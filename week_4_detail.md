@@ -12,12 +12,12 @@
 <td>Thursdays (due on date listed)</td> 
 </tr>
 <tr>
-  <td valign="top">4</td>
+  <td valign="top"><strong>4</strong></td>
   <td valign="top" width="48%"><strong>Sep 26</strong></td>
   <td valign="top" width="48%"><strong>Sep 28</strong></td>
 </tr>
 <tr>
-<td valign="top">class</td>
+<td valign="top"><strong>class</strong></td>
 <td valign="top">
   <ul>
   <li>Discuss graphic novel, <a href="https://law.duke.edu/musiccomic/download/" target="_blank">Theft! A History of Music</a></li>
@@ -54,7 +54,7 @@
 
 <!-- watch -->
 <tr>
-  <td valign="top">watch</td>
+  <td valign="top"><strong>watch</strong></td>
   <td>
   <ul>
 
@@ -67,7 +67,7 @@
 
 <!-- read -->
 <tr>
-  <td valign="top">read</td> 
+  <td valign="top"><strong>read</strong></td> 
   <td><ul><li><a href="http://teaching.polishedsolid.com/ip/mod3/content/index.html" target="_blank">Module 3</a></li></ul></td>
   <td><ul>
   <li><a href="http://teaching.polishedsolid.com/ip/mod4/content/index.html" target="_blank">Module 4</a></li></ul></td>
@@ -82,7 +82,7 @@
 
 <!-- do -->
 <tr>
-  <td valign="top">create and document (post on your process website)</td>
+  <td valign="top"><strong>create and document (post on your process website)</strong></td>
   <td>
   <ul>
   <li>Provide documentation of how you have used some of the tools, techniques, and thinking discussed in this class in your other course assignments, work projects, or passion projects (OUTSIDE of Ideation &amp; Prototyping).</li>

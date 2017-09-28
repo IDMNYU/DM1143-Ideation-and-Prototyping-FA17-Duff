@@ -12,12 +12,12 @@
 <td>Thursdays (due on date listed)</td>
 </tr>
 <tr>
-  <td valign="top">5</td>
+  <td valign="top"><strong>5</strong></td>
   <td valign="top" width="48%"><strong>Oct 3</strong></td>
   <td valign="top" width="48%"><strong>Oct 5</strong></td>
 </tr>
 <tr>
-<td valign="top">class</td>
+<td valign="top"><strong>class</strong></td>
 <td valign="top">
         <ul>
         <li>Create Team Annotated Bibliography Draft</li>
@@ -47,7 +47,7 @@
 
 <!-- do -->
 <tr>
-  <td valign="top">create (post on your process website)</td>
+  <td valign="top"><strong>create (post on your process website)</strong></td>
   <td>
   <ul>
   <li>(if applicable this week), your <a href="">constant input assignment</a></li>
