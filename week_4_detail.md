@@ -39,7 +39,8 @@
 <!-- 2nd column class -->
 <td valign="top" width="48%">
   <ul>
-  
+  <li>Discuss documenting process (even failures) &amp; the power of iteration</li>
+  <li>Discuss <a href="http://teaching.polishedsolid.com/ip/mod4/content/index.html" target="_blank">Module 4: Mood Boards</a></li>
   <li><a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a> Team Working Session</li>
 <ul>
 <li>Compare and Contrast Individual Annotated Bibliography</li>
