@@ -49,7 +49,7 @@
 <tr>
   <td valign="top"><strong>create (post on your process website)</strong></td>
   <td>
-  (if applicable this week), your <a href="">constant input assignment</a>
+  (if applicable this week), your <a href="constant_input_choices.md">constant input assignment</a>
   <br><br>
  
   <a href="creative_process.md">Creative Process Annotated Bibliography and Video Documentary</a> 
