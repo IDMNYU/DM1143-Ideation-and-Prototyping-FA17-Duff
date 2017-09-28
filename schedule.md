@@ -92,23 +92,23 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <tr>
 <td valign="top">5</td>
 <td valign="top">Oct 03<br>Creative Process Annotated Bibliography and Video Documentary:
-<a href="week_5_detail.md"></a>
+<a href="week_5_detail.md">
 <ul>
 <li>Create Team Annotated Bibliography Draft</li>
 <li>Create Team Mood Board Draft</li>
 <li>Create Team Image or Text Storyboard Draft</li>   
 
-</ul>
+</ul></a>
 </td>
 <td valign="top">Oct 05<br>Creative Process Annotated Bibliography and Video Documentary:
-<a href="week_5_detail.md"></a>
+<a href="week_5_detail.md">
 <ul>
 <li>(if applicable) Iterate Team Annotated Bibliography Draft</li>
 <li>(if applicable) Iterate Mood Board Draft</li>
 <li>(if applicable) Iterate Team Image or Text Storyboard Draft</li>
 <li>(if applicable) Create Animatic Draft</li>
 <li>(if applicable) constant input or output</li>
-</ul>
+</ul></a>
 </td>
 </tr>
 <tr>
