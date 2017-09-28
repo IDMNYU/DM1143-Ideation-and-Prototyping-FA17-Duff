@@ -49,9 +49,9 @@
 <tr>
   <td valign="top"><strong>create (post on your process website)</strong></td>
   <td>
-  <ul>
-  <li>(if applicable this week), your <a href="">constant input assignment</a></li>
-  </ul>
+  (if applicable this week), your <a href="">constant input assignment</a>
+  <br><br>
+ 
   <a href="creative_process.md">Creative Process Annotated Bibliography and Video Documentary</a> 
         <ul>
         <li>Create Team Annotated Bibliography Draft</li>
