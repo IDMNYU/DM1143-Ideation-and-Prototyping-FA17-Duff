@@ -20,7 +20,7 @@
 <td valign="top"><strong>class</strong></td>
 <td valign="top">Discuss
         <ul>
-        <li><a href="http://teaching.polishedsolid.com/ip/mod5/content/index.html" target="_blank">Module 5</a></li>
+        <li><a href="http://teaching.polishedsolid.com/ip/mod5/content/index.html" target="_blank">Module 5: Animatic</a></li>
         <li>Team Annotated Bibliography Draft</li>
 <li>Team Mood Board Draft</li>
 <li>Team Image or Text Storyboard Draft</li> 
@@ -30,14 +30,17 @@
 
 <!-- 2nd column class -->
 <td valign="top" width="48%">
+Reminder
+<ul>
+<li> IDM / Clive Davis Student Mixer on Friday Oct. 6 from 6-8pm in MAGNET Lecture Hall. <a href="https://docs.google.com/forms/d/e/1FAIpQLScor8MWWq67HMnLWa4a_QPHUX3WISvDQ4jQogVVS5ktzhiWOg/viewform" target="_blank">RSVP here.</a></li>
+</ul>
 Discuss
        
         <ul>
-        <li>(if applicable) Team Annotated Bibliography Draft</li>
-<li>(if applicable) Mood Board Draft</li>
-<li>(if applicable) Team Image or Text Storyboard Draft</li>
-<li>(if applicable) Animatic Draft</li>
-<li>(if applicable) constant input or output</li>
+        <li>Team Annotated Bibliography Drafts</li>
+<li>Mood Board Drafts</li>
+<li>Team Image or Text Storyboard Drafts</li>
+<li>Animatic Drafts</li>
         </ul>
 </td>
  
@@ -45,7 +48,8 @@ Discuss
 
 <!-- read -->
 <tr>
-  <td valign="top"></td>
+  <td valign="top">Read</td>
+  <td></td>
   <td><ul>
   <li><a href="http://teaching.polishedsolid.com/ip/mod5/content/index.html" target="_blank">Module 5</a></li></ul></td>
 </tr>
@@ -66,7 +70,7 @@ Discuss
         </ul></td>
   <td valign="top">
   <ul>
-  <li>Reminder: IDM / Clive Davis Student Mixer on Friday Oct. 6 from 6-8pm in MAGNET Lecture Hall. <a href="https://docs.google.com/forms/d/e/1FAIpQLScor8MWWq67HMnLWa4a_QPHUX3WISvDQ4jQogVVS5ktzhiWOg/viewform" target="_blank">RSVP here.</a></li>
+  
 
   <li><a href="creative_process.md">Creative Process Annotated Bibliography and Video Documentary</a></li>
    
@@ -74,9 +78,7 @@ Discuss
         <li>(if applicable) Iterate Team Annotated Bibliography Draft</li>
 <li>(if applicable) Iterate Mood Board Draft</li>
 <li>(if applicable) Iterate Team Image or Text Storyboard Draft</li>
-<li>(if applicable) Create Animatic Draft</li>
-<li>(if applicable) constant input or output</li>
-        
+<li>(if applicable) Create Animatic Draft</li>        
         </ul></td>
 </table>
 
