@@ -38,9 +38,9 @@ Discuss
        
         <ul>
         <li>Team Annotated Bibliography Drafts</li>
-<li>Mood Board Drafts</li>
+<li>Team Mood Board Drafts</li>
 <li>Team Image or Text Storyboard Drafts</li>
-<li>Animatic Drafts</li>
+<li>Team Animatic Drafts</li>
         </ul>
 </td>
  
@@ -65,8 +65,8 @@ Discuss
   <a href="creative_process.md">Creative Process Annotated Bibliography and Video Documentary</a> 
         <ul>
         <li>Create Team Annotated Bibliography Draft</li>
-<li>Create Team Mood Board Draft</li>
-<li>Create Team Image or Text Storyboard Draft</li> 
+<li>Create Team Mood Board Draft(s)</li>
+<li>Create Team Image or Text Storyboard Draft(s)</li> 
         </ul></td>
   <td valign="top">
   <ul>
@@ -76,9 +76,9 @@ Discuss
    
         <ul>
         <li>(if applicable) Iterate Team Annotated Bibliography Draft</li>
-<li>(if applicable) Iterate Mood Board Draft</li>
-<li>(if applicable) Iterate Team Image or Text Storyboard Draft</li>
-<li>(if applicable) Create Animatic Draft</li>        
+<li>(if applicable) Iterate Team Mood Board Draft(s)</li>
+<li>(if applicable) Iterate Team Image or Text Storyboard Draft(s)</li>
+<li>(if applicable) Create Team Animatic Draft(s)</li>        
         </ul></td>
 </table>
 

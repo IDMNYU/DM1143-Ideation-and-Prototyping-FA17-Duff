@@ -118,6 +118,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <a href="week_6_detail.md"></a>
 <ul>
 <li>(if applicable) constant input or output</li>
+<li>(if applicable) Create or Iterate Animatic Draft</li>
 <li>(if applicable) Create or Iterate Hybrid Animatic / Video Draft or</li>
 <li>(if applicable) Create Video Draft</li>
 
@@ -126,8 +127,8 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <td valign="top">Oct 12<br>Creative Process Annotated Bibliography and Video Documentary:
 <a href="week_6_detail.md"></a>
 <ul>
-<li>Iterate Hybrid Animatic / Video Draft</li>
-
+<li>(if applicable) Iterate Hybrid Animatic / Video Draft</li>
+<li>(if applicable) Video Draft</li>
 </ul>
 </td>
 </tr>
@@ -184,7 +185,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <tr>
 <td valign="top"></td>
 <td valign="top" colspan="2"><strong>Midterm One on Ones</strong><br>
-Nov 2 (starting @4:30pm), Nov 3 or Nov 6 (before 4:30pm)
+Mon 10/30 (starting @4:30pm) through Thu 11/2
 <br><br>
 Midterm Self-Assessment DUE 
 <ul>
