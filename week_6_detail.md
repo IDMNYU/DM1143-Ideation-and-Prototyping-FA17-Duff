@@ -24,6 +24,11 @@
 <li>Hybrid Animatic / Video Drafts</li>
 <li>Video Drafts</li>    
         </ul>
+The following teams should be discussed first:
+<ul>
+<li>Shirley &amp; Chester</li>
+<li>Adam &amp; Jessy</li>
+<li>Anand &amp; Florentina</li>
 </td>
 
 <!-- 2nd column class -->
