@@ -71,8 +71,8 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
 <td valign="top">4</td>
-<td valign="top">Sep 26<br><a href="week_4_detail.md">Creative Process Annotated Bibliography and Video Documentary:
-<ul>
+<td valign="top">Sep 26<br>Creative Process Annotated Bibliography and Video Documentary:
+<a href="week_4_detail.md"><ul>
 <li>Discuss Creative Process</li>
 <li>Select Creator and Form Midterm Teams</li>
 </ul></a>
@@ -83,9 +83,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <li>Create Individual Annotated Bibliography Draft</li>
 <li>Create Individual Mood Board Draft</li>
 <li>Create Individual Image or Text Storyboard Draft</li>
-<li>(if applicable) constant input or output</li>
-
-   
+<li>(if applicable) constant input or output</li>  
 </ul></a> 
 </td>
 </tr>
@@ -115,21 +113,21 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <tr>
 <td valign="top">6</td>    
 <td valign="top">Oct 10<br>Creative Process Annotated Bibliography and Video Documentary:
-<a href="week_6_detail.md"></a>
+<a href="week_6_detail.md">
 <ul>
 <li>(if applicable) constant input or output</li>
 <li>(if applicable) Create or Iterate Animatic Draft</li>
 <li>(if applicable) Create or Iterate Hybrid Animatic / Video Draft or</li>
 <li>(if applicable) Create Video Draft</li>
 
-</ul>
+</ul></a>
 </td>
 <td valign="top">Oct 12<br>Creative Process Annotated Bibliography and Video Documentary:
-<a href="week_6_detail.md"></a>
+<a href="week_6_detail.md">
 <ul>
 <li>(if applicable) Iterate Hybrid Animatic / Video Draft</li>
 <li>(if applicable) Video Draft</li>
-</ul>
+</ul></a>
 </td>
 </tr>
 <tr>
