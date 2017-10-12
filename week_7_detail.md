@@ -2,7 +2,7 @@
 ##### Fall 2017 • De Angela L. Duff • Tuesdays and Thursdays • 2:30-4:20pm • 2MTC MAGNET 811
 
 ---
-## [Schedule:](schedule.md) Week 6
+## [Schedule:](schedule.md) Week 7
 
 
 <table>
@@ -12,25 +12,19 @@
 <td>Thursdays (due on date listed)</td>
 </tr>
 <tr>
-  <td valign="top"><strong>6</strong></td>
-  <td valign="top" width="48%"><strong>Oct 10</strong></td>
-  <td valign="top" width="48%"><strong>Oct 12</strong></td>
+  <td valign="top"><strong>7</strong></td>
+  <td valign="top" width="48%"><strong>Oct 17</strong></td>
+  <td valign="top" width="48%"><strong>Oct 19</strong></td>
 </tr>
 <tr>
 <td valign="top"><strong>class</strong></td>
 <td valign="top">Discuss
-        <ul>
-        
-
+        <ul> 
+<li>Animatic Drafts</li>
 <li>Hybrid Animatic / Video Drafts</li>
 <li>Video Drafts</li>    
         </ul>
 The following teams should be discussed first:
-<ul>
-<li>Shirley &amp; Chester</li>
-<li>Adam &amp; Jessy</li>
-<li>Anand &amp; Florentina</li>
-</ul>
 </td>
 
 <!-- 2nd column class -->
@@ -38,8 +32,6 @@ The following teams should be discussed first:
 Discuss
        
         <ul>
-        <li><a href="https://www.youtube.com/watch?v=L_vQW3xQEhc" target="_blank">Sculpting Freddie Mercury</a></li>  
-        <li>Animatic Drafts</li> 
  <li>Hybrid Animatic / Video Drafts</li>
 <li>Video Drafts</li> 
         </ul>

@@ -133,7 +133,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <tr>
 <td valign="top">7</td>     
 <td valign="top">Oct 17<br>Creative Process Annotated Bibliography and Video Documentary: 
-<a href="week_7_detail.md"></a>
+<a href="week_7_detail.md">
 <ul>
 <li>Iterate Hybrid Animatic / Video Draft</li>
 <li>(if applicable) constant input or output</li>
@@ -143,7 +143,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <a href="week_7_detail.md"></a>
 <ul>
 <li>Create Video Draft</li>
-</ul>
+</ul></a>
 </td>
 </tr>
 <tr>
