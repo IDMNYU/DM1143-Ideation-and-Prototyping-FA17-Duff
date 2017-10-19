@@ -47,8 +47,8 @@ Discuss
  
   <a href="creative_process.md">Creative Process Annotated Bibliography and Video Documentary</a> 
         <ul>
-<li>(if applicable) Create or Iterate Hybrid Animatic / Video Draft</li>
-<li>(if applicable) Create Video Draft</li>
+<li>(if applicable) Iterate Hybrid Animatic / Video Draft</li>
+<li>(if applicable) Create or Iterate Video Draft</li>
   <td valign="top">
   <ul>
   
@@ -56,8 +56,8 @@ Discuss
   <li><a href="creative_process.md">Creative Process Annotated Bibliography and Video Documentary</a></li>
    
         <ul>
- <li>(if applicable) Create or Iterate Hybrid Animatic / Video Draft or</li>
-<li>(if applicable) Create or Iterate Video Draft</li>      
+ <li>(if applicable) Iterate Hybrid Animatic / Video Draft or</li>
+<li>(if applicable)  Iterate Video Draft</li>      
         </ul></td>
 </table>
 

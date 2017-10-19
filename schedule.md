@@ -135,14 +135,16 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <td valign="top">Oct 17<br>Creative Process Annotated Bibliography and Video Documentary: 
 <a href="week_7_detail.md">
 <ul>
-<li>Iterate Hybrid Animatic / Video Draft</li>
+<li>(if applicable) Create or Iterate Hybrid Animatic / Video Draft</li>
+<li>(if applicable) Create or Iterate Video Draft</li>
 <li>(if applicable) constant input or output</li>
 </ul></a>
 </td>
 <td valign="top">Oct 19<br>Creative Process Annotated Bibliography and Video Documentary:
 <a href="week_7_detail.md">
 <ul>
-<li>Create Video Draft</li>
+<li>(if applicable) Create or Iterate Hybrid Animatic / Video Draft</li>
+<li>(if applicable) Create or Iterate Video Draft</li>
 </ul></a>
 </td>
 </tr>
@@ -151,14 +153,16 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <td valign="top">Oct 24<br>Creative Process Annotated Bibliography and Video Documentary: 
 <a href="week_8_detail.md">
 <ul>
-<li>Iterate Video Draft</li>
+<li>(if applicable) Iterate Hybrid Animatic / Video Draft</li>
+<li>(if applicable) Create or Iterate Video Draft</li>
 <li>(if applicable) constant input or output</li>
 </ul></a>
 </td>
 <td valign="top">Oct 26<br>Creative Process Annotated Bibliography and Video Documentary: 
 <a href="week_8_detail.md">
 <ul>
-<li>Iterate Video Draft</li>
+<li>(if applicable) Iterate Hybrid Animatic / Video Draft</li>
+<li>(if applicable) Iterate Video Draft</li>
 </ul></a>
 </td>
 </tr> 
