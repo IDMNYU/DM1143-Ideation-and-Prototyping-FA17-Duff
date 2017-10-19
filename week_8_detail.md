@@ -20,7 +20,6 @@
 <td valign="top"><strong>class</strong></td>
 <td valign="top">Discuss
         <ul> 
-<li>Animatic Drafts</li>
 <li>Hybrid Animatic / Video Drafts</li>
 <li>Video Drafts</li>    
         </ul>
@@ -31,7 +30,7 @@
 Discuss
        
         <ul>
- <li>Hybrid Animatic / Video Drafts</li>
+<li>Hybrid Animatic / Video Drafts</li>
 <li>Video Drafts</li> 
         </ul>
 </td>
@@ -48,8 +47,6 @@ Discuss
  
   <a href="creative_process.md">Creative Process Annotated Bibliography and Video Documentary</a> 
         <ul>
-        <li>(if applicable) constant input or output</li>
-<li>(if applicable) Create or Iterate Animatic Draft</li>
 <li>(if applicable) Create or Iterate Hybrid Animatic / Video Draft</li>
 <li>(if applicable) Create Video Draft</li>
   <td valign="top">
