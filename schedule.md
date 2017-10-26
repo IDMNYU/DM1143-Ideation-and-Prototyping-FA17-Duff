@@ -169,25 +169,27 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <tr>
 <td valign="top">9</td>      
 <td valign="top">Oct 31<br>
-<a href="week_9_detail.md"></a>
+<a href="week_9_detail.md">
 <strong>
 <ul>
 <li>Creative Process Video Documentary DUE</li>
 <li>Final Annotated Bibliography DUE</li>
 <li>(if applicable) constant input or output</li>
 </ul>
-</strong></td>
+</strong></a></td>
 <td valign="top">Nov 2<br>Future Dystopia / Utopia Project: 
-<a href="week_9_detail.md"></a>
+<a href="week_9_detail.md">
 <ul>
 <li>Brainstorm Themes &amp; Ideas</li> 
-</ul>
+<li>Ideate Framing Story</li>
+<li>Ideate Message</li>
+</ul></a>
 </td>
 </tr>
 <tr>
 <td valign="top"></td>
 <td valign="top" colspan="2"><strong>Midterm One on Ones</strong><br>
-Mon 10/30 (starting @4:30pm) through Thu 11/2
+Mon 10/30 through Thu 11/2
 <br><br>
 Midterm Self-Assessment DUE 
 <ul>
@@ -204,8 +206,8 @@ Midterm Self-Assessment DUE
 <td valign="top">Nov 7<br>Future Dystopia / Utopia Project: 
 <a href="week_10_detail.md"></a>
 <ul>
-<li>Ideate Framing Story</li>
-<li>Ideate Message</li>
+<li>Iterate Framing Story</li>
+<li>Iterate Message</li>
 <li>(if applicable) constant input or output</li>  
 </ul>
 </td>
