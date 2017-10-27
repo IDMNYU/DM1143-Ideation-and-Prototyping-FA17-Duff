@@ -19,21 +19,21 @@
 <tr>
 <td valign="top"><strong>class</strong></td>
 <td valign="top">Discuss
-        <ul> 
+<ul> 
 <li>Final Creative Process Video Documentary</li>
 <li>Final Annotated Bibliography</li>  
-        </ul>
+</ul>
 </td>
 
 <!-- 2nd column class -->
 <td valign="top" width="48%">
 Discuss
        
-        <ul>
+<ul>
 <li>Future Dystopia / Utopia Project Brainstorming</li>
 <li>Ideate Framing Story</li>
 <li>Ideate Message</li> 
-        </ul>
+</ul>
 </td>
  
 </tr>
@@ -69,7 +69,7 @@ Midterm Self-Assessment and Rubric DUE (please slack to deangela before your mee
  <li>Ideate Framing Story</li>
  <ul><li>What does your imagined future look, sound, and feel like?</li></ul>
 <li>Ideate Message</li> 
-<ul><li>What **message** would you transmit to the current population from the future?</li></ul>    
+<ul><li>What message would you transmit to the current population from the future?</li></ul>    
         </ul></td>
 </table>
 
