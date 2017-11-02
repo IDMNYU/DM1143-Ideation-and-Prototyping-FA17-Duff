@@ -21,6 +21,7 @@
 <td valign="top">Discuss
 <ul> 
 <li>Love Letter or Breakup Letter</li>
+<li>Annotated Bibliography</li>
 <li>Iterate Framing Story</li>
 <li>Iterate Message</li> 
 </ul>
@@ -32,6 +33,7 @@ Discuss
        
 <ul>
 <li>Object Evolution Timeline</li>
+<li>Update Annotated Bibliography</li>
 <li>Iterate Framing Story</li>
 <li>Iterate Message</li> 
 </ul>
