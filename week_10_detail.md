@@ -1,0 +1,70 @@
+# DM-UY 1143 Ideation and Prototyping
+##### Fall 2017 • De Angela L. Duff • Tuesdays and Thursdays • 2:30-4:20pm • 2MTC MAGNET 811
+
+---
+## [Schedule:](schedule.md) Week 9
+
+
+<table>
+<tr>
+<td>wk</td>
+<td>Tuesdays (due on date listed)</td>
+<td>Thursdays (due on date listed)</td>
+</tr>
+<tr>
+  <td valign="top"><strong>9</strong></td>
+  <td valign="top" width="48%"><strong>Oct 31</strong></td>
+  <td valign="top" width="48%"><strong>Nov 2</strong></td>
+</tr>
+<tr>
+<td valign="top"><strong>class</strong></td>
+<td valign="top">Discuss
+<ul> 
+<li>Love Letter or Breakup Letter</li>
+<li>Iterate Framing Story</li>
+<li>Iterate Message</li> 
+</ul>
+</td>
+
+<!-- 2nd column class -->
+<td valign="top" width="48%">
+Discuss
+       
+<ul>
+<li>Object Evolution Timeline</li>
+<li>Iterate Framing Story</li>
+<li>Iterate Message</li> 
+</ul>
+</td>
+ 
+</tr>
+
+
+<!-- do -->
+<tr>
+  <td valign="top"><strong>create (post on your process website)</strong></td>
+  <td>
+  (if applicable this week), your <a href="constant_input_choices.md">constant input assignment</a>
+  <br><br>
+  <a href="future.md">Future Dystopia / Utopia Project</a>
+        <ul>
+<li><a href-"letter.md">Love Letter or Breakup Letter</a></li>
+<li>Iterate Framing Story</li>
+<li>Iterate Message</li>
+<li>(if applicable) constant input or output</li>  
+</ul>
+  <td valign="top">
+  <ul>
+  
+
+  <li><a href="future.md">Future Dystopia / Utopia Project</a></li>
+   
+        <ul>
+ <li><a href="evolution_timeline.md">Object Evolution Timeline</a></li>
+<li>Iterate Framing Story</li>
+<li>Iterate Message</li>    
+        </ul></td>
+</table>
+
+
+
