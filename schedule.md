@@ -204,16 +204,20 @@ Midterm Self-Assessment DUE
 <tr>
 <td valign="top">10</td>     
 <td valign="top">Nov 7<br>Future Dystopia / Utopia Project: 
-<a href="week_10_detail.md"></a>
+<a href="week_10_detail.md">
 <ul>
+<li>Love Letter or Breakup Letter</li>
+<li>Annotated Bibliography</li>
 <li>Iterate Framing Story</li>
 <li>Iterate Message</li>
 <li>(if applicable) constant input or output</li>  
 </ul>
+</a>
 </td>
 <td valign="top">Nov 9<br>Future Dystopia / Utopia Project: <a href="week_10_detail.md"></a>
 <ul>
-<li>Love Letter or Breakup Letter</li>
+<li>Object Evolution Timeline</li>
+<li>Annotated Bibliography</li>
 <li>Iterate Framing Story</li>
 <li>Iterate Message</li>  
 </ul></td>
@@ -223,7 +227,6 @@ Midterm Self-Assessment DUE
 <td valign="top">Nov 14<br>Future Dystopia / Utopia Project: 
 <a href="week_11_detail.md"></a>
 <ul>
-<li>Object Evolution Timeline</li>
 <li>Brainstorm, Sketch, and Map Object(s)</li>
 <li>Brainstorm, Sketch, and Map Delivery Medium</li>
 <li>Secondary Research</li>

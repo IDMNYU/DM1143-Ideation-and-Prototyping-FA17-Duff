@@ -49,6 +49,7 @@ Discuss
   <a href="future.md">Future Dystopia / Utopia Project</a>
         <ul>
 <li><a href-"letter.md">Love Letter or Breakup Letter</a></li>
+<li>Annotated Bibliography</li>
 <li>Iterate Framing Story</li>
 <li>Iterate Message</li>
 <li>(if applicable) constant input or output</li>  
@@ -61,6 +62,7 @@ Discuss
    
         <ul>
  <li><a href="evolution_timeline.md">Object Evolution Timeline</a></li>
+ <li>Update Annotated Bibliography</li>
 <li>Iterate Framing Story</li>
 <li>Iterate Message</li>    
         </ul></td>
