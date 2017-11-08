@@ -167,6 +167,17 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </td>
 </tr> 
 <tr>
+<td valign="top"></td>
+<td valign="top" colspan="2"><strong>Midterm One on Ones</strong><br>
+Mon 10/30 through Thu 11/2
+<br><br>
+Midterm Self-Assessment DUE 
+<ul>
+<li>Schedule your midterm one on one 20min appointment with me here on the above dates only, not before or afterwards: <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a>
+</li>
+</ul></td>
+</tr>
+<tr>
 <td valign="top">9</td>      
 <td valign="top">Oct 31<br>
 <a href="week_9_detail.md">
@@ -186,17 +197,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </ul></a>
 </td>
 </tr>
-<tr>
-<td valign="top"></td>
-<td valign="top" colspan="2"><strong>Midterm One on Ones</strong><br>
-Mon 10/30 through Thu 11/2
-<br><br>
-Midterm Self-Assessment DUE 
-<ul>
-<li>Schedule your midterm one on one 20min appointment with me here on the above dates only, not before or afterwards: <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a>
-</li>
-</ul></td>
-</tr>
+
 <tr>
 <td valign="top"></td>
 <td valign="top" colspan="2">Mon Nov 6<br><strong><i>Last Day to Withdraw</i></strong></td>
@@ -216,7 +217,7 @@ Midterm Self-Assessment DUE
 </td>
 <td valign="top">Nov 9<br>Future Dystopia / Utopia Project: <a href="week_10_detail.md"></a>
 <ul>
-<li>Object Evolution Timeline</li>
+<li>Evolution Timeline</li>
 <li>Annotated Bibliography</li>
 <li>Iterate Framing Story</li>
 <li>Iterate Message</li>  
@@ -227,16 +228,16 @@ Midterm Self-Assessment DUE
 <td valign="top">Nov 14<br>Future Dystopia / Utopia Project: 
 <a href="week_11_detail.md"></a>
 <ul>
-<li>Brainstorm, Sketch, and Map Object(s)</li>
-<li>Brainstorm, Sketch, and Map Delivery Medium</li>
+<li>Brainstorm, Sketch, &amp; Map Object(s)</li>
+<li>Brainstorm, Sketch, &amp; Map Delivery Medium</li>
 <li>Secondary Research</li>
 <li>(if applicable) constant input or output</li>
 </ul></td>
 <td valign="top">Nov 16<br>Future Dystopia / Utopia Project: 
 <a href="week_11_detail.md"></a>
 <ul>
-<li>Iterate Sketches and Maps of Object(s)</li>
-<li>Iterate Sketches and Maps of Delivery Medium</li>
+<li>Iterate Sketches &amp;  Maps of Object(s)</li>
+<li>Iterate Sketches &amp;  Maps of Delivery Medium</li>
 <li>Secondary Research</li>
 </ul></td>
 </tr>
@@ -289,7 +290,7 @@ Midterm Self-Assessment DUE
 <tr>
 <td valign="top">15</td>     
 <td valign="top">Dec 12<br><i><strong>NO CLASS: Legislative Day</strong> - Classes will meet according to a Monday schedule</i></td>  
-<td valign="top">Dec 14<br><strong><a href="future.md">Future Dystopia / Utopia Project DUE</a></strong></td>
+<td valign="top">Dec 14<ul><li><strong><a href="future.md">Future Dystopia / Utopia Project DUE</a></strong></li><li>Future Dystopia / Utopia Project Annotated Bibliography DUE</li></ul></td>
 </tr>
 <tr>
 <td valign="top"></td>
