@@ -13,8 +13,8 @@
 </tr>
 <tr>
   <td valign="top"><strong>10</strong></td>
-  <td valign="top" width="48%"><strong>Oct 31</strong></td>
-  <td valign="top" width="48%"><strong>Nov 2</strong></td>
+  <td valign="top" width="48%"><strong>Nov 7</strong></td>
+  <td valign="top" width="48%"><strong>Nov 9</strong></td>
 </tr>
 <tr>
 <td valign="top"><strong>class</strong></td>
@@ -32,7 +32,7 @@
 Discuss
        
 <ul>
-<li>Object Evolution Timeline</li>
+<li>Evolution Timeline</li>
 <li>Update Annotated Bibliography</li>
 <li>Iterate Framing Story</li>
 <li>Iterate Message</li> 
