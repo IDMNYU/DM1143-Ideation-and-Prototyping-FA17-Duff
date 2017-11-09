@@ -215,31 +215,34 @@ Midterm Self-Assessment DUE
 </ul>
 </a>
 </td>
-<td valign="top">Nov 9<br>Future Dystopia / Utopia Project: <a href="week_10_detail.md"></a>
+<td valign="top">Nov 9<br>Future Dystopia / Utopia Project: <a href="week_10_detail.md">
 <ul>
 <li>Evolution Timeline</li>
 <li>Annotated Bibliography</li>
 <li>Iterate Framing Story</li>
 <li>Iterate Message</li>  
-</ul></td>
+</ul></a></td>
 </tr>
 <tr>
 <td valign="top">11</td>   
 <td valign="top">Nov 14<br>Future Dystopia / Utopia Project: 
-<a href="week_11_detail.md"></a>
+<a href="week_11_detail.md">
 <ul>
+<li>(if applicable) Revised Evolution Timeline</li>
+<li>Read "One Designer Shares: How to Use Design to Tell a Story" by Kevin Quinn and respond on process website</li>
+<li>Watch "Ira Glass on storytelling (all 4 parts)" on YouTube and respond on process website</li>
 <li>Brainstorm, Sketch, &amp; Map Object(s)</li>
 <li>Brainstorm, Sketch, &amp; Map Delivery Medium</li>
 <li>Secondary Research</li>
 <li>(if applicable) constant input or output</li>
-</ul></td>
+</ul></a></td>
 <td valign="top">Nov 16<br>Future Dystopia / Utopia Project: 
-<a href="week_11_detail.md"></a>
+<a href="week_11_detail.md">
 <ul>
 <li>Iterate Sketches &amp;  Maps of Object(s)</li>
 <li>Iterate Sketches &amp;  Maps of Delivery Medium</li>
 <li>Secondary Research</li>
-</ul></td>
+</ul></a></td>
 </tr>
 <tr>
 <td valign="top">12</td>   
