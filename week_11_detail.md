@@ -42,7 +42,7 @@ Discuss
 
 <tr>
   <td valign="top"><strong>Review</strong></td>
-  <td>Review 
+  <td>
 <ul><li><a href="http://teaching.polishedsolid.com/ip/mod4/content/index.html" target="_blank">Module 4: Forms of Research</a></li>
 <li><a href="http://teaching.polishedsolid.com/ip/mod8/content/index.html" target="_blank">Module 8: Speculative Design &amp; Storytelling</a></li>
 <li><a href="http://teaching.polishedsolid.com/ip/mod9/content/index.html" target="_blank">Module 9: Prototyping</a></li>
@@ -71,12 +71,12 @@ Discuss
  
   <a href="future.md">Future Dystopia / Utopia Project</a>
         <ul>
-<li>Revised <a href="evolution_timeline.md">Evolution Timelines</a> to reflect past to current day; NOT current day to future</li>
+<li>Revise <a href="evolution_timeline.md">Evolution Timelines</a> to reflect past to current day; NOT current day to future</li>
 <li>EXTRA CREDIT: Sign up for one or more <a target="_blank" href="http://engineering.nyu.edu/life/student-resources/makerspace">Tandon MakerSpace special events 11/13, 11/16, 11/30 or 12/07</a> and write a response including your notes on your project website after attending.</li>
 <li>(OPTIONAL / NOT EXTRA CREDIT) Sign up for <a target="_blank" href="https://wp.nyu.edu/makerspace/training-calendar">Tandon MakerSpace Training</a> </li>
 <li>Brainstorm medium: How will you send it back from the future?</li>
 <li>Braintorm object(s) or experience(s): What does it look, sound and feel like?</li>
-<li>Conduct <strong>visual, materials and (if applicable) materials and aural research</strong> and document on your process website.</li>
+<li>Conduct (if applicable) <strong>visual, materials, aural research</strong> and document on your process website.</li>
 <li>Conduct <strong>secondary research</strong> and add to your annotated bibliography which should be linked to from your process website.</li>
 <ul>
 <li>What is being done right now that can support your ideas and/or themes for the Future Dystopia / Utopia project?</li>
@@ -90,16 +90,18 @@ Discuss
   
 
   <li><a href="future.md">Future Dystopia / Utopia Project</a></li>
-   
+  Continue to 
     <ul>
-  <li>Continue to brainstorm medium: How will you send it back from the future?</li>
-<li>Continue to graintorm object(s) or experience(s): What does it look, sound and feel like?</li>
- <li>Continue to conduct visual and (if applicable) materials and/or aural research and document on your process website.</li>
- <li>Continue to conduct <strong>secondary research</strong> and add to your annotated bibliography which should be linked to from your process website.</li>
-
- <li>Update Annotated Bibliography</li>
+<li>Brainstorm medium: How will you send it back from the future?</li>
+<li>Braintorm object(s) or experience(s): What does it look, sound and feel like?</li>
+<li>Conduct (if applicable) <strong>visual, materials, aural research</strong> and document on your process website.</li>
+<li>Conduct <strong>secondary research</strong> and add to your annotated bibliography which should be linked to from your process website.</li>
+<ul>
+<li>What is being done right now that can support your ideas and/or themes for the Future Dystopia / Utopia project?</li>
+<li>Who is doing it?</li>
+</ul>
 <li>Continue to Iterate Framing Story</li>
-<li>Continue to Iterate Message</li>    
+<li>Continue to Iterate Message</li>  
         </ul></td>
 </table>
 
