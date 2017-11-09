@@ -37,7 +37,7 @@ Discuss
   </ul>
 <li>Review</li> 
 <ul><li><a href="http://teaching.polishedsolid.com/ip/mod4/content/index.html" target="_blank">Module 4: Forms of Research</a></li>
-<li><a href="http://teaching.polishedsolid.com/ip/mod8/content/index.html" target="_blank">Module 8</a></li>
+<li><a href="http://teaching.polishedsolid.com/ip/mod8/content/index.html" target="_blank">Module 8: Speculative Design &amp; Storytelling</a></li>
 <li><a href="http://teaching.polishedsolid.com/ip/mod9/content/index.html" target="_blank">Module 9: Prototyping</a></li>
 </ul>
 <li>Evolution Timeline</li>
