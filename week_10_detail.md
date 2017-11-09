@@ -40,7 +40,6 @@ Discuss
 <li><a href="http://teaching.polishedsolid.com/ip/mod8/content/index.html" target="_blank">Module 8: Speculative Design &amp; Storytelling</a></li>
 <li><a href="http://teaching.polishedsolid.com/ip/mod9/content/index.html" target="_blank">Module 9: Prototyping</a></li>
 </ul>
-<li>Evolution Timeline</li>
 <li>Iterate Framing Story</li>
 <li>Iterate Message</li> 
 </ul>

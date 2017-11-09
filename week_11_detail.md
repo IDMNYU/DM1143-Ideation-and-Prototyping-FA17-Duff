@@ -23,7 +23,7 @@
 <li>Revised <a href="evolution_timeline.md">Evolution Timelines</a> to reflect past to current day; NOT current day to future</li>
 <li>Brainstorm, Sketch, &amp; Map Object(s)</li>
 <li>Brainstorm, Sketch, &amp; Map Delivery Medium</li>
-<li>Aural, Visual &amp; Secondary Research</li>
+<li>Aural, Visual, Materials &amp; Secondary Research</li>
 </ul>
 </td>
 
@@ -34,7 +34,7 @@ Discuss
 <ul>
 <li>Iterate Sketches &amp;  Maps of Object(s)</li>
 <li>Iterate Sketches &amp;  Maps of Delivery Medium</li>
-<li>Aural, Visual, &amp; Secondary Research</li>
+<li>Aural, Visual, Materials &amp; Secondary Research</li>
 </ul>
 </td>
  
@@ -71,12 +71,12 @@ Discuss
  
   <a href="future.md">Future Dystopia / Utopia Project</a>
         <ul>
-
+<li>Revised <a href="evolution_timeline.md">Evolution Timelines</a> to reflect past to current day; NOT current day to future</li>
 <li>EXTRA CREDIT: Sign up for one or more <a target="_blank" href="http://engineering.nyu.edu/life/student-resources/makerspace">Tandon MakerSpace special events 11/13, 11/16, 11/30 or 12/07</a> and write a response including your notes on your project website after attending.</li>
-<li>(OPTIONAL) Sign up for <a target="_blank" href="https://wp.nyu.edu/makerspace/training-calendar">Tandon MakerSpace Training</a> /</li>
+<li>(OPTIONAL / NOT EXTRA CREDIT) Sign up for <a target="_blank" href="https://wp.nyu.edu/makerspace/training-calendar">Tandon MakerSpace Training</a> </li>
 <li>Brainstorm medium: How will you send it back from the future?</li>
 <li>Braintorm object(s) or experience(s): What does it look, sound and feel like?</li>
-<li>Conduct <strong>visual and (if applicable) aural research</strong> and document on your process website.</li>
+<li>Conduct <strong>visual, materials and (if applicable) materials and aural research</strong> and document on your process website.</li>
 <li>Conduct <strong>secondary research</strong> and add to your annotated bibliography which should be linked to from your process website.</li>
 <ul>
 <li>What is being done right now that can support your ideas and/or themes for the Future Dystopia / Utopia project?</li>
@@ -84,7 +84,6 @@ Discuss
 </ul>
 <li>Continue to Iterate Framing Story</li>
 <li>Continue to Iterate Message</li>
-<li>(if applicable) constant input or output</li>  
 </ul>
   <td valign="top">
   <ul>
@@ -95,9 +94,9 @@ Discuss
     <ul>
   <li>Continue to brainstorm medium: How will you send it back from the future?</li>
 <li>Continue to graintorm object(s) or experience(s): What does it look, sound and feel like?</li>
- <li>Continue to conduct visual and (if applicable) aural research and document on your process website.</li>
+ <li>Continue to conduct visual and (if applicable) materials and/or aural research and document on your process website.</li>
  <li>Continue to conduct <strong>secondary research</strong> and add to your annotated bibliography which should be linked to from your process website.</li>
- <li><a href="evolution_timeline.md">Object Evolution Timeline</a></li>
+
  <li>Update Annotated Bibliography</li>
 <li>Continue to Iterate Framing Story</li>
 <li>Continue to Iterate Message</li>    
