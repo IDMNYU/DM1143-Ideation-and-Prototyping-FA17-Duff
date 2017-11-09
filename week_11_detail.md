@@ -22,7 +22,7 @@
 <ul> 
 <li>Brainstorm, Sketch, &amp; Map Object(s)</li>
 <li>Brainstorm, Sketch, &amp; Map Delivery Medium</li>
-<li>Aural, Visual, &amp; Secondary Research</li>
+<li>Aural, Visual &amp; Secondary Research</li>
 </ul>
 </td>
 
