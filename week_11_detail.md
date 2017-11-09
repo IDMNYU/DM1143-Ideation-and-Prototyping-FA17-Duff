@@ -20,6 +20,7 @@
 <td valign="top"><strong>class</strong></td>
 <td valign="top">Discuss
 <ul> 
+<li>Revised <a href="evolution_timeline.md">Evolution Timelines</a> to reflect past to current day; NOT current day to future</li>
 <li>Brainstorm, Sketch, &amp; Map Object(s)</li>
 <li>Brainstorm, Sketch, &amp; Map Delivery Medium</li>
 <li>Aural, Visual &amp; Secondary Research</li>
@@ -43,17 +44,19 @@ Discuss
   <td valign="top"><strong>Review</strong></td>
   <td>Review 
 <ul><li><a href="http://teaching.polishedsolid.com/ip/mod4/content/index.html" target="_blank">Module 4: Forms of Research</a></li>
-<li><a href="http://teaching.polishedsolid.com/ip/mod8/content/index.html" target="_blank">Module 8</a></li>
+<li><a href="http://teaching.polishedsolid.com/ip/mod8/content/index.html" target="_blank">Module 8: Speculative Design &amp; Storytelling</a></li>
 <li><a href="http://teaching.polishedsolid.com/ip/mod9/content/index.html" target="_blank">Module 9: Prototyping</a></li>
 </ul></td>
 <td valign="top"></td>
 </tr>
 
 <tr>
-  <td valign="top"><strong>watch and reflect (post on your process website)</strong></td>
-  <td>Read and write a response to “<a href-"http://www.howdesign.com/design-creativity/storytelling/" target="_blank">One Designer Shares: How to Use Design to Tell a Story</a>.” Do not write a summary. In other words, do not regurgitate the article. Discuss if and how you will utilize what is discussed in your future dystopia / utopia story, and, if you will not, discuss why not and what methods (and their sources) you will utilize instead.
+  <td valign="top"><strong>read, watch, and reflect (post on your process website)</strong></td>
+  <td><ul>
+  <li>Read and write a response to “<a href-"http://www.howdesign.com/design-creativity/storytelling/" target="_blank">One Designer Shares: How to Use Design to Tell a Story</a>.” Do not write a summary. In other words, do not regurgitate the article. Discuss if and how you will utilize what is discussed in your future dystopia / utopia story, and, if you will not, discuss why not and what methods (and their sources) you will utilize instead.</li>
  
-Watch <a href="https://www.youtube.com/watch?v=5pFI9UuC_fc&list=PLE108783228F1E008">Ira Glass on storytelling (all 4 parts)</a> and write a response to Ira Glass on Storytelling and post on your process website. Do not write a summary. In other words, do not regurgitate what he says. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).
+<li>Watch <a href="https://www.youtube.com/watch?v=5pFI9UuC_fc&list=PLE108783228F1E008">Ira Glass on storytelling (all 4 parts)</a> and write a response to Ira Glass on Storytelling and post on your process website. Do not write a summary. In other words, do not regurgitate what he says. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
+</ul>
  
 </td>
 <td>Watch or Rewatch episodes of <strong>The Black Mirror</strong> Series on Netflix and write a response by sharing the ideas, observations or insights that stand out for you from The Black Mirror on your process website.</td>
