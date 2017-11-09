@@ -21,7 +21,6 @@
 <td valign="top">Discuss
 <ul> 
 <li>Love Letter or Breakup Letter</li>
-<li>Annotated Bibliography</li>
 <li>Iterate Framing Story</li>
 <li>Iterate Message</li> 
 </ul>
@@ -32,8 +31,16 @@
 Discuss
        
 <ul>
+<li>Discuss <a target="_blank" href="http://engineering.nyu.edu/life/student-resources/makerspace">Tandon Maker Space</a></li>
+  <ul>
+  <li><a target="_blank" href="http://engineering.nyu.edu/life/student-resources/makerspace">Tandon MakerSpace Blog, Special Events</a>, &amp; <a target="_blank" href="https://wp.nyu.edu/makerspace/training-calendar">Training</a> /</li>
+  </ul>
+<li>Review</li> 
+<ul><li><a href="http://teaching.polishedsolid.com/ip/mod4/content/index.html" target="_blank">Module 4: Forms of Research</a></li>
+<li><a href="http://teaching.polishedsolid.com/ip/mod8/content/index.html" target="_blank">Module 8</a></li>
+<li><a href="http://teaching.polishedsolid.com/ip/mod9/content/index.html" target="_blank">Module 9: Prototyping</a></li>
+</ul>
 <li>Evolution Timeline</li>
-<li>Update Annotated Bibliography</li>
 <li>Iterate Framing Story</li>
 <li>Iterate Message</li> 
 </ul>
@@ -55,7 +62,7 @@ Discuss
 <li>Iterate Framing Story</li>
 <li>Iterate Message</li>
 <li>(if applicable) constant input or output</li>  
-</ul>
+</ul></td>
   <td valign="top">
   <ul>
   
@@ -63,6 +70,7 @@ Discuss
   <li><a href="future.md">Future Dystopia / Utopia Project</a></li>
    
         <ul>
+
  <li><a href="evolution_timeline.md">Object Evolution Timeline</a></li>
  <li>Update Annotated Bibliography</li>
 <li>Iterate Framing Story</li>

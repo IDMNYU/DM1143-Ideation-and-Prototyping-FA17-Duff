@@ -13,8 +13,8 @@
 </tr>
 <tr>
   <td valign="top"><strong>9</strong></td>
-  <td valign="top" width="48%"><strong>Nov 7</strong></td>
-  <td valign="top" width="48%"><strong>Nov 9</strong></td>
+  <td valign="top" width="48%"><strong>Oct 31</strong></td>
+  <td valign="top" width="48%"><strong>Nov 2</strong></td>
 </tr>
 <tr>
 <td valign="top"><strong>class</strong></td>
@@ -31,8 +31,10 @@ Discuss
        
 <ul>
 <li>Future Dystopia / Utopia Project Brainstorming</li>
-<li>Ideate Framing Story</li>
-<li>Ideate Message</li> 
+<ul>
+<li>Brainstorm Framing Story</li>
+<li>Brainstorm Message</li> 
+</ul>
 </ul>
 </td>
  
