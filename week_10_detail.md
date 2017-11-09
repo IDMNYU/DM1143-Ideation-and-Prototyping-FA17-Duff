@@ -33,7 +33,7 @@ Discuss
 <ul>
 <li>Discuss <a target="_blank" href="http://engineering.nyu.edu/life/student-resources/makerspace">Tandon Maker Space</a></li>
   <ul>
-  <li><a target="_blank" href="http://engineering.nyu.edu/life/student-resources/makerspace">Tandon MakerSpace Blog, Special Events</a>, &amp; <a target="_blank" href="https://wp.nyu.edu/makerspace/training-calendar">Training</a> /</li>
+  <li><a target="_blank" href="https://wp.nyu.edu/makerspace/">Tandon MakerSpace Blog, Special Events</a>, &amp; <a target="_blank" href="https://wp.nyu.edu/makerspace/training-calendar">Training</a> </li>
   </ul>
 <li>Review</li> 
 <ul><li><a href="http://teaching.polishedsolid.com/ip/mod4/content/index.html" target="_blank">Module 4: Forms of Research</a></li>
