@@ -53,9 +53,9 @@ Discuss
 <tr>
   <td valign="top"><strong>read, watch, and reflect (post on your process website)</strong></td>
   <td><ul>
-  <li>Read and write a response to “<a href-"http://www.howdesign.com/design-creativity/storytelling/" target="_blank">One Designer Shares: How to Use Design to Tell a Story</a>.” Do not write a summary. In other words, do not regurgitate the article. Discuss if and how you will utilize what is discussed in your future dystopia / utopia story, and, if you will not, discuss why not and what methods (and their sources) you will utilize instead.</li>
+  <li>Read and write a response to “<a href="http://www.howdesign.com/design-creativity/storytelling/" target="_blank">One Designer Shares: How to Use Design to Tell a Story</a>.” Do not write a summary. In other words, do not regurgitate the article. Discuss if and how you will utilize what is discussed in your future dystopia / utopia story, and, if you will not, discuss why not and what methods (and their sources) you will utilize instead.</li>
  
-<li>Watch <a href="https://www.youtube.com/watch?v=5pFI9UuC_fc&list=PLE108783228F1E008">Ira Glass on storytelling (all 4 parts)</a> and write a response to Ira Glass on Storytelling and post on your process website. Do not write a summary. In other words, do not regurgitate what he says. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
+<li>Watch <a target="_blank" href="https://www.youtube.com/watch?v=5pFI9UuC_fc&list=PLE108783228F1E008">Ira Glass on storytelling (all 4 parts)</a> and write a response to Ira Glass on Storytelling and post on your process website. Do not write a summary. In other words, do not regurgitate what he says. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
 </ul>
  
 </td>
