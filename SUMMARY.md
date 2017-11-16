@@ -14,6 +14,7 @@
     * [Week 9 Detail Oct 31](week_9_detail.md)
     * [Week 10 Detail Nov 7](week_10_detail.md)
     * [Week 11 Detail Nov 14](week_11_detail.md)
+    * [Week 12 Detail Nov 21](week_12_detail.md)
 * [Assignments](assignments.md)
     * [Process Website](process_website.md)
     * [Notebook or Sketchbook](notebook_or_sketchbook.md)

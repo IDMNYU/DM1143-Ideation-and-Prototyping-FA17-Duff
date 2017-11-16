@@ -247,12 +247,13 @@ Midterm Self-Assessment DUE
 <tr>
 <td valign="top">12</td>   
 <td valign="top">Nov 22<br>Future Dystopia / Utopia Project: 
-<a href="week_12_detail.md"></a>
+<a href="week_12_detail.md">
 <ul>
 <li>Storyboard Draft of Delivery Medium</li>
-<li>Lo-fi Object Prototype Draft</li>
+<li>(OPTIONAL) Lo-fi Prototype Draft of Delivery Medium</li>
+<li>Lo-fi Physical Prototype Draft of Object or Experience</li>
 <li>(if applicable) constant input or output</li>
-</ul>
+</ul></a>
 </td>
 <td valign="top">Nov 24<br><i>NO CLASS: Thanksgiving Holiday</i></td>
 </tr>
@@ -262,7 +263,8 @@ Midterm Self-Assessment DUE
 <a href="week_13_detail.md"></a>
 <ul>
 <li>Iterate Storyboard Draft of Delivery Medium</li>
-<li>Iterate Lo-fi Object Prototype Draft</li>
+<li>(OPTIONAL) Lo-fi Prototype Draft of Delivery Medium</li>
+<li>Iterate Lo-fi Physical Prototype Draft of Object or Experience</li>
 <li>(if applicable) constant input or output</li>
 </ul>
 </td>
