@@ -260,13 +260,14 @@ Midterm Self-Assessment DUE
 <tr>
 <td valign="top">13</td>  
 <td valign="top">Nov 28<br>Future Dystopia / Utopia Project: 
-<a href="week_13_detail.md"></a>
+<a href="week_13_detail.md">
 <ul>
 <li>Iterate Storyboard Draft of Delivery Medium</li>
 <li>(OPTIONAL) Lo-fi Prototype Draft of Delivery Medium</li>
 <li>Iterate Lo-fi Physical Prototype Draft of Object or Experience</li>
 <li>(if applicable) constant input or output</li>
 </ul>
+</a>
 </td>
 <td valign="top">Nov 30<br>Future Dystopia / Utopia Project: 
 <a href="week_13_detail.md"></a>
