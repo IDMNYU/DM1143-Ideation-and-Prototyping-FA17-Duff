@@ -21,6 +21,7 @@
 <td valign="top">Discuss
 
 <ul>
+<li><a hre="http://journals.sagepub.com/doi/abs/10.1177/0956797614524581?utm_campaign=paperlove11292017&utm_medium=email&utm_source=newsletter&mc_cid=3166db31db&mc_eid=2719b72172&" target="_blank">The Pen Is Mightier Than the Keyboard: Advantages of Longhand Over Laptop Note Taking</a></li>
 <li>Iterate Storyboard Draft of Delivery Medium</li>
 <li>Iterate Lo-fi Physical Prototype Draft of Object or Experience</li>
 <li>(OPTIONAL) Lo-fi Prototype Draft of Delivery Medium</li>
@@ -32,7 +33,7 @@
 <!-- 2nd column class -->
 <td valign="top" width="48%">
 <li>Lo-fi Prototype Delivery Medium</li>
-<li>Hi-fi Prototype Draft</li>
+<li>Hi-fi Prototype Draft of Object</li>
 </td>
 </tr>
 

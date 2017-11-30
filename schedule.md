@@ -270,11 +270,12 @@ Midterm Self-Assessment DUE
 </a>
 </td>
 <td valign="top">Nov 30<br>Future Dystopia / Utopia Project: 
-<a href="week_13_detail.md"></a>
+<a href="week_13_detail.md">
 <ul>
 <li>Lo-fi Prototype Delivery Medium</li>
-<li>Hi-fi Prototype Draft</li>
+<li>Hi-fi Prototype Draft of Object</li>
 </ul>
+</a>
 </td>
 </tr>
 <tr>
@@ -283,13 +284,13 @@ Midterm Self-Assessment DUE
 <a href="week_14_detail.md"></a>
 <ul>
 <li>Iterate Lo-fi Prototype Delivery Medium</li>
-<li>Iterate Hi-fi Prototype Draft</li>
+<li>Iterate Hi-fi Prototype Draft of Object</li>
 </ul></td>
 <td valign="top">Dec 7<br>Future Dystopia / Utopia Project: 
 <a href="week_14_detail.md"></a>
 <ul>      
 <li>Iterate Lo-fi Prototype Delivery Medium</li>
-<li>Iterate Hi-fi Prototype Draft</li>
+<li>Iterate Hi-fi Prototype Draft of Object</li>
 </ul>
 </td>
 </tr>

@@ -34,11 +34,11 @@ _Artists’ &amp; Designers’ Processes_
 *   _The Creative Habit: Learn It and Use It for Life_ by Twyla Tharp and Mark Reiter
 *   Theories and Documents of Contemporary Art: A Sourcebook of Artists’ Writings by Kristine Stiles and Peter Selz
 
-Business
+_Business_
 
 *   _[Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Yves-Pigneur/e/B00405XLBG/ref=sr_ntt_srch_lnk_1?qid=1470188736&sr=8-1)_ by Alexander Osterwalder and Yves Pigneur
 
-Design
+_Design_
 
 *   _Designing for Interaction_ by Dan Safer
 *   _Exposing the Magic of Design: A Practitioner’s Guide to the Methods and Theory of Synthesis_ by Jon Kolko
@@ -48,6 +48,10 @@ Design
 _Ethnography_
 
 *   _Why We Buy: The Science of Shopping_ by Paco Underhill
+
+_Note Taking_
+
+* [The Pen Is Mightier Than the Keyboard: Advantages of Longhand Over Laptop Note Taking](http://journals.sagepub.com/doi/abs/10.1177/0956797614524581?utm_campaign=paperlove11292017&utm_medium=email&utm_source=newsletter&mc_cid=3166db31db&mc_eid=2719b72172&)
 
 _Sketching_
 
