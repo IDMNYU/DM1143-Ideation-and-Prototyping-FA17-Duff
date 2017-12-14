@@ -18,7 +18,7 @@
 with the following files and 
 <ul>
 <li>Future Dystopia Utopia Documentation (which is different for every student). See Below</li>
-<li>Creative Process Annotated Bibliography & Video Documentary (.mov, .mp4, etc)</li>
+<li>Creative Process Annotated Bibliography (.pdf, .doc) & Video Documentary (.mov, .mp4, etc)</li>
 <li>(if applicable) with constant input folder with native files</li>
 <li>Final Self Assessment as pdf</li>
 <li>Letter as pdf or Video To Next Cohort (.mov, .mp4, etc)</li>
