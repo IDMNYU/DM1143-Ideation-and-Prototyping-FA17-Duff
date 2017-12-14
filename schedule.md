@@ -304,7 +304,6 @@ Midterm Self-Assessment DUE
 <td valign="top"><strong>Final One on Ones</strong><br>
 Fri 12/15 or Mon 12/18 thru Thu 12/21<br><br><strong></strong> <ul><li>Schedule your final one on one 20min appointment with me here on the above dates only, not before or afterwards: <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a></li></ul>
 <ul>
-<li>Final Self-Assessment DUE</li>
 <li><a href="https://deangela.gitbooks.io/dm1143-ideation-and-prototyping-fall-2016/content/end-of-semester-deliverables.html">End of Semester Deliverables Due</a></li>
 </ul>
 </strong></td>
