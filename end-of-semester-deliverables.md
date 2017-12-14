@@ -6,13 +6,13 @@
 
 <ol>
 <li>Future Dystopia Utopia Documentation</li>
-<li>Creative Process Annotated Bibliography & Video Documentary</li>
+<li>Creative Process Annotated Bibliography &amp; Video Documentary</li>
 <li>(If Applicable) Constant Input Native Files</li>
 <li>Final Self Assessment</li>
 <li>Letter or Video To Next Cohort</li>
 </ol>
  
-##Create a google drive folder, I&P Fall 2016 and share with deangela.duff@nyu.edu
+##Create a google drive folder, I&P Fall 2017 and share with deangela.duff@nyu.edu
 
 with the following files and 
 <ul>
@@ -25,14 +25,14 @@ with the following files and
 (if applicable) with constant input folder with native files
 
 ## Final Self Assessment
-*Include in google drive folder, I&P Fall 2016*
+*Include in google drive folder, I&P Fall 2017*
 
 <ul>
 <li>Handed out during class and pinned on slack.
 </ul>
 
 ## Letter or Video to Next Cohort
-*Include in google drive folder, I&P Fall 2016*
+*Include in google drive folder, I&P Fall 2017*
 
 <ul>
 <Li>Write a letter to the next class or create a 1-2 minute video, giving them advice on how to reach their learning goals and get value out of this course.</li>
