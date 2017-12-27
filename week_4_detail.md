@@ -12,15 +12,18 @@
 <td>Thursdays (due on date listed)</td> 
 </tr>
 <tr>
-  <td valign="top">4</td>
+  <td valign="top"><strong>4</strong></td>
   <td valign="top" width="48%"><strong>Sep 26</strong></td>
   <td valign="top" width="48%"><strong>Sep 28</strong></td>
 </tr>
 <tr>
-<td valign="top">class</td>
+<td valign="top"><strong>class</strong></td>
 <td valign="top">
   <ul>
-  <li>Discuss Metal Gear Solid Documentaries and Application of Ideation &amp; Prototyping in Other Classes</li>
+  <li>Discuss graphic novel, <a href="https://law.duke.edu/musiccomic/download/" target="_blank">Theft! A History of Music</a></li>
+  <li>Discuss <a href="http://blog.visualmotive.com/wp-content/uploads/2009/12/mccloud_understanding_comics.jpg" target="_blank">process</a> &amp; <a href="http://i46.tinypic.com/2nrn6t0.png" target="_blank">process hierarchy</a> from Understanding Comics</a></li>
+  <li>Discuss Application of Ideation &amp; Prototyping in Other Classes</li>
+  <li>Discuss Metal Gear Solid Documentaries</li>
   <li>Discuss <a href="http://teaching.polishedsolid.com/ip/mod4/content/index.html" target="_blank">Module 4</a></li>
   <ul><li>Discuss Text vs. Image Storyboard</li></ul>
   <li>In-class team work session:
@@ -36,7 +39,8 @@
 <!-- 2nd column class -->
 <td valign="top" width="48%">
   <ul>
-  
+  <li>Discuss documenting process (even failures) on your process website &amp; the power of iteration</li>
+  <li>Discuss <a href="http://teaching.polishedsolid.com/ip/mod4/content/index.html" target="_blank">Module 4: Mood Boards</a></li>
   <li><a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a> Team Working Session</li>
 <ul>
 <li>Compare and Contrast Individual Annotated Bibliography</li>
@@ -50,24 +54,24 @@
 
 <!-- watch -->
 <tr>
-  <td valign="top">watch</td>
+  <td valign="top"><strong>watch</strong></td>
   <td>
   <ul>
 
 <li><a href="https://www.youtube.com/watch?v=eJVYND_YRx8" target="_blank">Metal Gear Solid 2 Documentary</a></li>
 <li><a href="https://www.youtube.com/watch?v=2nM7TLbs6fE" target="_blank">Metal Gear Solid 4 Documentary</a> (make sure to turn on closed captioning)</li>
-<li><a href="http://teaching.polishedsolid.com/ip/mod3/content/index.html" target="_blank">Module 3</a></li>
+
 </ul></td>
-  <td><ul>
-  <li><a href="http://teaching.polishedsolid.com/ip/mod4/content/index.html" target="_blank">Module 4</a></li></ul></td> 
+  <td></td> 
 </tr>
 
-<!-- read 
+<!-- read -->
 <tr>
-  <td valign="top">read</td> 
-  <td></td>
-  <td></td>
-</tr>-->
+  <td valign="top"><strong>read</strong></td> 
+  <td><ul><li><a href="http://teaching.polishedsolid.com/ip/mod3/content/index.html" target="_blank">Module 3</a></li></ul></td>
+  <td><ul>
+  <li><a href="http://teaching.polishedsolid.com/ip/mod4/content/index.html" target="_blank">Module 4</a></li></ul></td>
+</tr>
 
 <!-- write -->
 <tr>
@@ -78,8 +82,12 @@
 
 <!-- do -->
 <tr>
-  <td valign="top">create and document (post on your process website)</td>
-  <td>Provide documentation of how you have used some of the tools, techniques, and thinking discussed in this class in your other course assignments, work projects, or passion projects (OUTSIDE of Ideation &amp; Prototyping).</td>
+  <td valign="top"><strong>create and document (post on your process website)</strong></td>
+  <td>
+  <ul>
+  <li>Provide documentation of how you have used some of the tools, techniques, and thinking discussed in this class in your other course assignments, work projects, or passion projects (OUTSIDE of Ideation &amp; Prototyping).</li>
+  <li>(if applicable this week), your <a href="">constant input assignment</a></li>
+  </ul></td>
   <td valign="top">
   <ul>
    <li>Begin discovery / research for your <a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a></li>
@@ -87,7 +95,7 @@
    <li>Each team mate should bring in their own annotated bibliography and compare and contrast.</li>
    <li>Each team member should bring in their own text or image storyboard and compare and contrast.</li>
    </ul>
-  <li>(if applicable this week), your <a href="">constant input assignment</a></li>
+  
  
   </ul></td>
 </table>
